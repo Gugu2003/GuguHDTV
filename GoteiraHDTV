@@ -925,6 +925,14 @@ http://rhagf.co:25461/live/jacobeboerromulo/C9K1Gh9APm/7434.ts
 http://rhagf.co:25461/live/jacobeboerromulo/C9K1Gh9APm/110.ts
 #EXTINF: -1, Discovery Civilization Alternativo
 http://rhagf.co:25461/live/jacobeboerromulo/C9K1Gh9APm/2074.ts
+#EXTINF: -1, Discovery Home & Health HD
+http://rhagf.co:25461/live/jacobeboerromulo/C9K1Gh9APm/187.ts
+#EXTINF: -1, Discovery Home & Health
+http://rhagf.co:25461/live/jacobeboerromulo/C9K1Gh9APm/109.ts
+#EXTINF: -1, Discovery Home & Health HD Alternativo
+http://rhagf.co:25461/live/jacobeboerromulo/C9K1Gh9APm/1809.ts
+#EXTINF: -1, Discovery Home & Health Alternativo
+http://rhagf.co:25461/live/jacobeboerromulo/C9K1Gh9APm/3499.ts
 #EXTINF: -1, Nat Geo HD
 http://rhagf.co:25461/live/jacobeboerromulo/C9K1Gh9APm/157.ts
 #EXTINF: -1, Nat Geo
@@ -977,30 +985,6 @@ http://rhagf.co:25461/live/jacobeboerromulo/C9K1Gh9APm/2082.ts
 http://rhagf.co:25461/live/jacobeboerromulo/C9K1Gh9APm/42.ts
 #EXTINF: -1, Record News
 http://rhagf.co:25461/live/jacobeboerromulo/C9K1Gh9APm/2032.ts
-#EXTINF: -1, Cancao Nova
-http://rhagf.co:25461/live/jacobeboerromulo/C9K1Gh9APm/117.ts
-#EXTINF: -1, Cancao Nova Alternativo
-http://rhagf.co:25461/live/jacobeboerromulo/C9K1Gh9APm/5086.ts
-#EXTINF: -1, Rede Vida
-http://rhagf.co:25461/live/jacobeboerromulo/C9K1Gh9APm/38.ts
-#EXTINF: -1, TV Aparecida
-http://rhagf.co:25461/live/jacobeboerromulo/C9K1Gh9APm/130.ts
-#EXTINF: -1, TV Aparecida Web
-http://rhagf.co:25461/live/jacobeboerromulo/C9K1Gh9APm/6179.ts
-#EXTINF: -1, Rede Século 21
-http://rhagf.co:25461/live/jacobeboerromulo/C9K1Gh9APm/574.ts
-#EXTINF: -1, Rede Super
-http://rhagf.co:25461/live/jacobeboerromulo/C9K1Gh9APm/575.ts
-#EXTINF: -1, RIT
-http://rhagf.co:25461/live/jacobeboerromulo/C9K1Gh9APm/37.ts
-#EXTINF: -1, TV Novo Tempo
-http://rhagf.co:25461/live/jacobeboerromulo/C9K1Gh9APm/59.ts
-#EXTINF: -1, CNT
-http://rhagf.co:25461/live/jacobeboerromulo/C9K1Gh9APm/6235.ts
-#EXTINF: -1, RBI
-http://rhagf.co:25461/live/jacobeboerromulo/C9K1Gh9APm/44.ts
-#EXTINF: -1, Rede do Bem
-http://rhagf.co:25461/live/jacobeboerromulo/C9K1Gh9APm/6236.ts
 #EXTINF: -1, TV Gideoes HD
 http://rhagf.co:25461/live/jacobeboerromulo/C9K1Gh9APm/1214.ts
 #EXTINF: -1, Boa Vontade FHD
@@ -1069,6 +1053,59 @@ http://rhagf.co:25461/live/jacobeboerromulo/C9K1Gh9APm/5108.ts
 http://rhagf.co:25461/live/jacobeboerromulo/C9K1Gh9APm/5112.ts
 #EXTINF: -1, Turma da Monica
 http://rhagf.co:25461/live/jacobeboerromulo/C9K1Gh9APm/5111.ts
+#EXTINF:-1 tvg-id="Tvfeliz.br" tvg-logo="http://i.imgur.com/5IC5kuO.png" group-title="Religiosos",TV Feliz
+https://59f2354c05961.streamlock.net:1443/tvfelizrn/_definst_/tvfelizrn/playlist.m3u8?JACOBLISTV
+#EXTINF:-1 tvg-id="Tvevangelizar.br" tvg-logo="http://s6.postimg.org/6k3nby9gx/evangelizar.png" group-title="Religiosos",TV Evangelizar
+http://tvevangelizar20.crossdigital.com.br:1935/evangelizar/tv/playlist.m3u8?JACOBLISTV
+#EXTINF:-1 tvg-id="Tvaparecida.br" tvg-logo="http://i.imgur.com/RP0sbkV.png" group-title="Religiosos",TV Aparecida
+http://caikron.com.br:1935/tvaparecida/tvaparecida.stream/playlist.m3u8?JACOBLISTV
+#EXTINF:-1 tvg-id="Tvnovotempo.br" tvg-logo="http://i.imgur.com/IZKxzJ9.png" group-title="Religiosos",Novo Tempo SP
+http://stream.novotempo.com:1935/tv/tvnovotempo.stream/playlist.m3u8?JACOBLISTV
+#EXTINF:-1 tvg-id="Tvnovotempo.br" tvg-logo="http://i.imgur.com/IZKxzJ9.png" group-title="Religiosos",Novo Tempo RS
+http://stream.novotempo.com:1935/tv/smil:TvNovoTempoCom.smil/playlist.m3u8?JACOBLISTV
+#EXTINF:-1 tvg-id="Rit.br" tvg-logo="http://i.imgur.com/mxBB8c4.png" group-title="Religiosos",RIT
+#EXTINF:-1 tvg-id="Rbi.br" tvg-logo="http://i.imgur.com/y8YCFOZ.png" group-title="Religiosos",RBI
+http://iaptd1.zoeweb.tv:1935/iaptd1/smil:iaptd1.smil/playlist.m3u8?JACOBLISTV
+#EXTINF:-1 tvg-id="Redevida.br" tvg-logo="http://i.imgur.com/ywEa7bZ.png" group-title="Religiosos",Rede Vida
+http://rtmp.cdn.upx.net.br:1935/74cc/myStream.sdp/playlist.m3u8?JACOBLISTV
+#EXTINF:-1 tvg-id="CancaoNova.br" tvg-logo="http://i.imgur.com/XqZCYLY.png" group-title="Religiosos",Canção Nova
+http://cancaonova-push-live.hls.adaptive.level3.net/hls-live/cancaonova-channel01/_definst_/live/stream1.m3u8?JACOBLISTV
+#EXTINF:-1 tvg-id="RedeSuperdeTelevisao.br" tvg-logo="http://i.imgur.com/l2Fy8cv.png" group-title="Religiosos",Rede Super
+http://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8?JACOBLISTV
+#EXTINF:-1 tvg-id="Boavontadetv.br" tvg-logo="http://i.imgur.com/iD1xVNR.png" group-title="Religiosos",Boa Vontade
+http://api.new.livestream.com/accounts/15107153/events/4338771/live.m3u8?JACOBLISTV
+#EXTINF:-1 tvg-id="RedeSeculo21.br" tvg-logo="http://i.imgur.com/m7MQIPJ.png" group-title="Religiosos",Rede Século 21
+http://tvseculo21-lh.akamaihd.net/i/tvseculo_1@16110/master.m3u8?JACOBLISTV
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/qd4ZMLd.png" group-title="Religiosos",CJC TV
+http://flash1.crossdigital.com.br:1935/ponto85/ongrace/playlist.m3u8?JACOBLISTV
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/RNtmXsk.png" group-title="Religiosos",Gospel Movies Television
+http://stmv2.srvstm.com:1935/gospelf/gospelf/playlist.m3u8?JACOBLISTV
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/RNtmXsk.png" group-title="Religiosos",Gospel Music Television
+http://stmv2.euroti.com.br:1935/gmusic/gmusic/playlist.m3u8?JACOBLIST
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/SmTGQlJ.png" group-title="Religiosos",Show Da Fé
+http://nossatvhls02-lh.akamaihd.net/i/nossatv_hls@381916/master.m3u8?JACOBLISTV
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/aiNRaga.png" group-title="Religiosos",IURD TV
+http://iuhls-lh.akamaihd-staging.net/i/utvhls1_1@336317/master.m3u8?JACOBLISTV
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/aiNRaga.png" group-title="Religiosos",IURD TV Internacional
+http://api.new.livestream.com/accounts/4486152/events/2780306/live.m3u8?JACOBLISTV
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/nt8hDCT.png" group-title="Religiosos",IMPD TV
+https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8?JACOBLISTV
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/CxIuCFa.png" group-title="Religiosos",Rede Gospel
+http://media.igospel.com.br:1935/live/redegospel/playlist.m3u8?JACOBLISTV
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/xX2IFya.jpg" group-title="Religiosos",TV Verdade
+http://ocatv.mcgi.me:1935/public/247_br/playlist.m3u8?JACOBLISTV
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/wxqkMUE.png" group-title="Religiosos",Vem & Vê TV 1
+http://srv-vvtv.sisdera.com:1935/live/mp4:vvtv2/playlist.m3u8?JACOBLISTV
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/wxqkMUE.png" group-title="Religiosos",Vem & Vê TV 2
+http://srv-vvtv.sisdera.com:1935/live/mp4:vvtv022/playlist.m3u8?JACOBLISTV
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/wxqkMUE.png" group-title="Religiosos",Vem & Vê TV 3
+http://srv-vvtv.sisdera.com:1935/live/mp4:vvtv032/playlist.m3u8?JACOBLISTV
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/zW83GGD.png" group-title="Religiosos",TV Terceiro Anjo
+http://streamer1.streamhost.org:1935/salive/GMI3anjoh/playlist.m3u8?JACOBLISTV
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/tWqhirq.png" group-title="Religiosos",Portal Gospel
+http://s1.wsepanel.com:1935/lukfilm/lukfilm/playlist.m3u8?JACOBLISTV
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/c0Yv7h1.png" group-title="Religiosos",Rede Gênesis
+http://srv3.zoeweb.tv:1935/z474-live/aovivo/playlist.m3u8?JACOBLISTV
 #EXTINF: -1, NASA Live - Space
 http://rhagf.co:25461/live/jacobeboerromulo/C9K1Gh9APm/5098.ts
 #EXTINF: -1, Praia Copacabana RJ
@@ -1145,6 +1182,47 @@ http://rhagf.co:25461/live/jacobeboerromulo/C9K1Gh9APm/1024.ts
 http://rhagf.co:25461/live/jacobeboerromulo/C9K1Gh9APm/1025.ts
 #EXTINF: -1, Toros TV
 http://rhagf.co:25461/live/jacobeboerromulo/C9K1Gh9APm/1104.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol Ao Vivo",Jogos Ao Vivo
+http://loa.futeboltvaovivo.com:8081/live/1/playlist.m3u8?
+JACOBLISTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol Ao Vivo",Jogos Ao Vivo
+http://loa.futeboltvaovivo.com:8081/live/2/playlist.m3u8?JACOBLISTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol Ao Vivo",Jogos Ao Vivo
+http://loa.futeboltvaovivo.com:8081/live/3/playlist.m3u8?JACOBLISTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol Ao Vivo",Jogos Ao Vivo
+http://loa.futeboltvaovivo.com:8081/live/4/playlist.m3u8?JACOBLISTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol Ao Vivo",Jogos Ao Vivo
+http://loa.futeboltvaovivo.com:8081/live/5/playlist.m3u8?JACOBLISTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol Ao Vivo",Jogos Ao Vivo
+http://loa.futeboltvaovivo.com:8081/live/6/playlist.m3u8?JACOBLISTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol Ao Vivo",Jogos Ao Vivo
+http://loa.futeboltvaovivo.com:8081/live/7/playlist.m3u8?JACOBLISTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol Ao Vivo",Jogos Ao Vivo
+http://loa.futeboltvaovivo.com:8081/live/8/playlist.m3u8?JACOBLISTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol Ao Vivo",Jogos Ao Vivo
+http://loa.futeboltvaovivo.com:8081/live/9/playlist.m3u8?JACOBLISTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol Ao Vivo",Jogos Ao Vivo
+http://loa.futeboltvaovivo.com:8081/live/10/playlist.m3u8?JACOBLISTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol Ao Vivo",Jogos Ao Vivo
+http://loa.futeboltvaovivo.com:8081/live/11/playlist.m3u8?JACOBLISTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol Ao Vivo",Jogos Ao Vivo
+http://loa.futeboltvaovivo.com:8081/live/12/playlist.m3u8?JACOBLISTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol Ao Vivo",Jogos Ao Vivo
+http://loa.futeboltvaovivo.com:8081/live/13/playlist.m3u8?JACOBLISTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol Ao Vivo",Jogos Ao Vivo
+http://loa.futeboltvaovivo.com:8081/live/14/playlist.m3u8?JACOBLISTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol Ao Vivo",Jogos Ao Vivo
+http://loa.futeboltvaovivo.com:8081/live/15/playlist.m3u8?JACOBLISTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol Ao Vivo",Jogos Ao Vivo
+http://loa.futeboltvaovivo.com:8081/live/16/playlist.m3u8?JACOBLIST
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol Ao Vivo",Jogos Ao Vivo
+http://loa.futeboltvaovivo.com:8081/live/17/playlist.m3u8?JACOBLISTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol Ao Vivo",Jogos Ao Vivo
+http://loa.futeboltvaovivo.com:8081/live/18/playlist.m3u8?JACOBLISTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol Ao Vivo",Jogos Ao Vivo
+http://loa.futeboltvaovivo.com:8081/live/19/playlist.m3u8?JACOBLISTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol Ao Vivo",Jogos Ao Vivo
+http://loa.futeboltvaovivo.com:8081/live/20/playlist.m3u8?JACOBLISTV
 #EXTINF: -1, TVI Reality
 http://rhagf.co:25461/live/jacobeboerromulo/C9K1Gh9APm/1121.ts
 #EXTINF: -1, TVI Reality Camara Exclusiva 1
@@ -5940,3 +6018,24 @@ http://www.blogger.com/video-play.mp4?contentId=128e0cd4a8616b5
 http://www.blogger.com/video-play.mp4?contentId=ef5aa3aadf3682a1
 #EXTINF:0 tvg-logo="http://i.imgur.com/C35f2nI.jpg" group-title="Séries Tokusatsus",JIRAYA O Incrível Ninja EP.50 - Adeus, Espada Olímpica
 http://www.blogger.com/video-play.mp4?contentId=e8b0f625ab632871
+#EXTINF:-1,Cine
+http://paineliptvgold.info:25461/live/canalvocesabianao/yEExUBu1Y1/401.ts
+#EXTINF:-1,Cine 10
+http://paineliptvgold.info:25461/live/canalvocesabianao/yEExUBu1Y1/400.ts
+#EXTINF:-1,Cine 2
+http://paineliptvgold.info:25461/live/canalvocesabianao/yEExUBu1Y1/399.ts
+#EXTINF:-1,Cine 3
+http://paineliptvgold.info:25461/live/canalvocesabianao/yEExUBu1Y1/398.ts
+#EXTINF:-1,Cine 4
+http://paineliptvgold.info:25461/live/canalvocesabianao/yEExUBu1Y1/397.ts
+#EXTINF:-1,Cine 5
+http://paineliptvgold.info:25461/live/canalvocesabianao/yEExUBu1Y1/396.ts
+#EXTINF:-1,Cine 6
+http://paineliptvgold.info:25461/live/canalvocesabianao/yEExUBu1Y1/395.ts
+#EXTINF:-1,Cine 7
+http://paineliptvgold.info:25461/live/canalvocesabianao/yEExUBu1Y1/394.ts
+#EXTINF:-1,Cine 8
+http://paineliptvgold.info:25461/live/canalvocesabianao/yEExUBu1Y1/393.ts
+#EXTINF:-1,Cine 9
+http://paineliptvgold.info:25461/live/canalvocesabianao/yEExUBu1Y1/392.ts
+
