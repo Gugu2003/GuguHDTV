@@ -985,6 +985,385 @@ http://rhagf.co:25461/live/jacobeboerromulo/C9K1Gh9APm/2082.ts
 http://rhagf.co:25461/live/jacobeboerromulo/C9K1Gh9APm/42.ts
 #EXTINF: -1, Record News
 http://rhagf.co:25461/live/jacobeboerromulo/C9K1Gh9APm/2032.ts
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/Jotugf0.png" group-title="Categoria", SBT SP
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/s32.postimg.org/5fmicyl3p/SBT1.png" group-title="Categoria",SBT RJ
+http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.tvmagazine.com.br/imagens/icones/600/recordnewsb.png" group-title="Categoria",Record News HD
+http://stmv4.srvstm.com:1935/recordnewses/recordnewses/playlist.m3u8?
+#EXTINF:-1 tvg-logo="http://paineliptvgratis.com/assets/favicons/ms-icon-310x310.png" group-title="Categoria",Rede Mundial
+https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/lGy7Q6S.png" group-title="Categoria",Cultura
+http://wz-brasil1.comets.com.br/tvaperipe/aovivo/chunklist_w648956908.m3u8
+#EXTINF:-1 tvg-logo="http://paineliptvgratis.com/assets/favicons/ms-icon-310x310.png" group-title="Categoria",ABU DABI SPORT 2 HD
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="https://i0.wp.com/s26.postimg.org/9i41ypvax/ALL.png" group-title="Categoria",   All Sport Br
+http://bit.ly/2zj7ZSp
+#EXTINF:-1 tvg-logo="https://i0.wp.com/oi67.tinypic.com/2m4ss2f.jpg" group-title="Categoria",DISCOVERY CHANNEL
+http://live-s102.abweb.com/liveabs102/ngrp:animaux.stream_bis/chunklist_f1tv_b1096000.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.tvmagazine.com.br/imagens/icones/600/globone.png" group-title="Categoria", Globo Nordeste
+http://tv.ec.cx:1935/redecanais-stream-bobo/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/vignette1.wikia.nocookie.net/logopedia/images/e/e4/Logo_Band_2011.png/revision/latest?cb=20130709112612" group-title="Categoria", BAND
+http://wz3.dnip.com.br/tvgazetamt/tvgazetamt.sdp/chunklist_w556705443.m3u8
+#EXTINF:-1 tvg-logo="http://paineliptvgratis.com/assets/favicons/ms-icon-310x310.png" group-title="Categoria", Record HD
+http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8?CANALANDRONALTAS
+#EXTINF:-1 tvg-logo="http://paineliptvgratis.com/assets/favicons/ms-icon-310x310.png" group-title="Categoria", REDE TV HD
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1096797278.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Extras", History Lab
+http://wma10.fluidstream.net:1935/HistoryLab/livestream/chunklist_w657994700.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Extras", Lyubimoe Tv Desenhos
+rtmp://wse.planeta-online.tv:1935/live/ playpath=channel_6 swfUrl=http://www.cxtv.com.br/assets/plugins/jwplayer7/jwplayer.flash.swf live=1 pageUrl=http://www.cxtv.com.br/tv-ao-vivo/lyubimoe-tv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Extras", Tv na Ilha Filmes 24h
+http://stmv2.euroti.com.br:1935/mandruva/mandruva/live.m3u8
+#EXTINF:-1 tvg-id="Globo Nordeste" tvg-logo="http://s17.postimg.org/w75u3yg1n/globo2.png" group-title="Canais Digital", Globo Nordeste
+http://tv.ec.cx:1935/redecanais-stream-bobo/myStream/chunklist.m3u8?CANALANDRONALTAS
+#EXTINF:-1 tvg-id="RedeTV!" tvg-logo="https://listaiptvbrasil.com/logo/redetv.png" group-title="Canais Digital", RedeTV!
+http://evpp.mm.uol.com.br/redetv1/redetv1/playlist.m3u8?CANALANDRONALTAS
+#EXTINF:-1 tvg-id="RedeTV! Rondônia" tvg-logo="https://listaiptvbrasil.com/logo/redetvrondonia.png" group-title="Canais Digital", RedeTV! Rondônia
+http://173.236.10.10:1935/tvonline/tvonline/playlist.m3u8?CANALANDRONALTAS
+#EXTINF:-1 tvg-id="RedeTV! Rio" tvg-logo="http://i.imgur.com/k4haEx6.png" group-title="Canais Digital", RedeTV! Rio
+http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8?CANALANDRONALTAS
+#EXTINF:-1 tvg-id="RedeTV! Rondônia" tvg-logo="http://i.imgur.com/k4haEx6.png" group-title="Canais Digital", RedeTV! RO
+http://173.236.10.10:1935/tvonline/tvonline/playlist.m3u8?CANALANDRONALTAS
+#EXTINF:-1 tvg-id="TV Transamérica" tvg-logo="https://lut.im/dQv2mX8DSK/a6964W8xUin8LJs8.png" group-title="Canais Digital", TV Transamérica
+http://tvtransamerica.crossdigital.com.br:1935/ponto2/transamerica2/playlist.m3u8?CANALANDRONALTAS
+#EXTINF:-1 tvg-id="Cultura" tvg-logo="http://i.imgur.com/kd7IOy7.png" group-title="Canais Digital", TV Cultura PB HD
+http://177.73.84.49/hls/live/live.m3u8?CANALANDRONALTAS
+#EXTINF:-1 tvg-id="Cultura" tvg-logo="https://listaiptvbrasil.com/logo/tvitarare.png" group-title="Canais Digital", TV Cultura Paraíba - TV Itararé
+http://177.73.84.49/hls/live/live.m3u8?CANALANDRONALTAS
+http://rsync.com.br:8081/rtsp/tbc/playlist.m3u8?CANALANDRONALTAS
+#EXTINF:-1 tvg-id="SBT" tvg-logo="" group-title="Canais Digital", SBT SD
+http://srv6.zoeweb.tv:1935/z343-live/stream/playlist.m3u8?CANALANDRONALTAS
+#EXTINF:-1 tvg-id="SBT Interior SP" tvg-logo="https://listaiptvbrasil.com/logo/sbt.png" group-title="Canais Digital", SBT Interior SP
+http://srv6.zoeweb.tv:1935/z343-live/stream/playlist.m3u8?CANALANDRONALTAS
+#EXTINF:-1 tvg-id="SBT Interior SP" tvg-logo="http://s32.postimg.org/5fmicyl3p/SBT1.png" group-title="Canais Digital", SBT PE Interior
+http://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8?CANALANDRONALTAS
+#EXTINF:-1 tvg-id="SBT SC" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/sbtsc.png" group-title="Canais Digital", SBT SC
+http://srv6.zoeweb.tv:1935/z343-live/stream/livestream.m3u8?CANALANDRONALTAS
+#EXTINF:-1 tvg-id="SBT RS" tvg-logo="http://s32.postimg.org/5fmicyl3p/SBT1.png" group-title="Canais Digital", SBT GO
+http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/playlist.m3u8?CANALANDRONALTAS
+#EXTINF:-1 tvg-id="SBT Rio" tvg-logo="http://s32.postimg.org/5fmicyl3p/SBT1.png" group-title="Canais Digital", SBT RJ
+http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8?CANALANDRONALTAS
+#EXTINF:-1 tvg-id="SBT Vale" tvg-logo="http://s32.postimg.org/5fmicyl3p/SBT1.png" group-title="Canais Digital", SBT PE HD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w165930016_b216000_sleng.m3u8?CANALANDRONALTAS
+#EXTINF:-1 tvg-id="TV Jornal" tvg-logo="https://listaiptvbrasil.com/logo/tvjornal.png" group-title="Canais Digital", TV Jornal
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist.m3u8?CANALANDRONALTAS
+#EXTINF:-1 tvg-id="TV Serra Dourada" tvg-logo="https://lut.im/IBYdjs67jr/VUUOCGKbZFX3I6Pc.png" group-title="Canais Digital", TV Serra Dourada
+http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/playlist.m3u8?CANALANDRONALTAS
+#EXTINF:-1 tvg-id="Record HD" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="Canais Digital", Record AM HD
+http://iphone-streaming.ustream.tv/uhls/22972089/streams/live/playlist.m3u8?CANALANDRONALTAS
+#EXTINF:-1 tvg-id="Record HD" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="Canais Digital", Record Internacional
+http://api.new.livestream.com/accounts/21076186/events/6180705/live.m3u8?CANALANDRONALTAS
+#EXTINF:-1 tvg-id="Record HD" tvg-logo="" group-title="Canais Digital", Record HD
+http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8?CANALANDRONALTAS
+#EXTINF:-1 tvg-id="Record HD" tvg-logo="https://listaiptvbrasil.com/logo/acritica.JPG" group-title="Canais Digital", Acrítica Play
+http://iphone-streaming.ustream.tv:80/uhls/22972089/streams/live/playlist.m3u8?CANALANDRONALTAS
+#EXTINF:-1 tvg-id="Record HD" tvg-logo="https://listaiptvbrasil.com/logo/tvvitoria.png" group-title="Canais Digital", Record ES
+http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8?CANALANDRONALTAS
+#EXTINF:-1 tvg-id="Band Rio" tvg-logo="" group-title="Canais Digital", Band SD
+http://video01.kshost.com.br/rba24509/rba24509/playlist.m3u8?CANALANDRONALTAS
+#EXTINF:-1 tvg-id="TV Gazeta AC" tvg-logo="https://listaiptvbrasil.com/logo/tvgazeta.png" group-title="Canais Digital", TV Gazeta SP
+http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8?CANALANDRONALTAS
+#EXTINF:-1 tvg-id="TV Gazeta AL" tvg-logo="http://i.imgur.com/Or3Q4WA.png" group-title="Canais Digital", TV Gazeta SP HD
+http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8?CANALANDRONALTAS
+#EXTINF:-1 tvg-id="Rede Família" tvg-logo="http://i.imgur.com/sQwm6Cl.png" group-title="Canais Digital", Rede Familia
+http://srv9.zoeweb.tv:1935/zw901/zw901.smil/playlist.m3u8?CANALANDRONALTAS
+#EXTINF:-1 tvg-id="Tv Escola" tvg-logo="" group-title="Canais Digital", Tv Escola HD
+http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream1/playlist.m3u8?CANALANDRONALTAS
+#EXTINF:-1 tvg-id="TV Escola" tvg-logo="http://i.imgur.com/Yj9UKv2.png" group-title="Canais Digital", TV Escola
+http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream2/playlist.m3u8?CANALANDRONALTAS
+#EXTINF:-1 tvg-id="TV Escola" tvg-logo="http://i.imgur.com/Yj9UKv2.png" group-title="Canais Digital", TV Escola HD
+http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream3/playlist.m3u8?CANALANDRONALTAS
+#EXTINF:-1 tvg-id="Tv Escola" tvg-logo="https://listaiptvbrasil.com/logo/tvescola.png" group-title="Canais Digital", TV Escola
+http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream1/chunklist.m3u8?CANALANDRONALTAS
+#EXTINF:-1 tvg-id="TV Diario" tvg-logo="https://listaiptvbrasil.com/logo/tvdiario.png" group-title="Canais Digital", TV Diario SD
+http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/chunklist.m3u8?CANALANDRONALTAS
+#EXTINF:-1 tvg-id="TV Diario" tvg-logo="http://s20.postimg.org/lw2q8s33h/TV_Di_rio.png" group-title="Canais Digital", TV Diario HD
+http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/playlist.m3u8?CANALANDRONALTAS
+#EXTINF:-1 tvg-id="TV Brusque" tvg-logo="https://listaiptvbrasil.com/logo/redebrasil.png" group-title="Canais Digital", TV Brusque Desenhos
+http://wse5.player.tv.br:1935/aovivo1/aovivo1/playlist.m3u8?CANALANDRONALTAS
+#EXTINF:-1 tvg-id="TV Câmara" tvg-logo="http://i.imgur.com/no1Al0A.png" group-title="Canais Digital", TV Camara
+http://stream2.camara.leg.br:8134/tv1/manifest.m3u8?CANALANDRONALTAS
+#EXTINF:-1 tvg-id="TV Câmara Caxias" tvg-logo="http://i.imgur.com/no1Al0A.png" group-title="Canais Digital", TV Camara HD
+http://stream2.camara.leg.br:8134/tv1/manifest.m3u8?CANALANDRONALTAS
+#EXTINF:-1 tvg-id="TV Câmara Osasco" tvg-logo="http://i.imgur.com/no1Al0A.png" group-title="Canais Aberto", Tv Camara SD
+http://stream2.camara.leg.br:8134/tv1/manifest.m3u8?CANALANDRONALTAS
+#EXTINF:-1 tvg-id="TV Brasil" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/tvbrasil.png" group-title="Canais Digital", TV Brasil HD
+http://ebctvbrasil-live.hls.adaptive.level3.net/hls-live/ebcremuxlive-ebctvbrasil/_definst_/live.m3u8?CANALANDRONALTAS
+#EXTINF:-1 tvg-id="TV Brasil" tvg-logo="http://i.imgur.com/0uUPOMx.png" group-title="Canais Digital", TV Brasil
+http://ebctvbrasil-live.hls.adaptive.level3.net/hls-live/ebcremuxlive-ebctvbrasil/_definst_/live.m3u8?CANALANDRONALTAS
+#EXTINF:-1 tvg-id="Futura" tvg-logo="http://i.imgur.com/J0vLlTS.png" group-title="Canais Digital", TV Futura RJ HD
+http://ynv2127uts35.nethorizontes.tv:1935/ynv2127uts35/tvunivates/playlist.m3u8?CANALANDRONALTAS
+#EXTINF:-1 tvg-id="Futura" tvg-logo="http://i.imgur.com/J0vLlTS.png" group-title="Canais Digital", TV Futura PR
+http://caikron.com.br:1935/unipar/tvup/playlist.m3u8?CANALANDRONALTAS
+#EXTINF:-1 tvg-id="Futura" tvg-logo="http://i.imgur.com/J0vLlTS.png" group-title="Canais Digital", TV Futura RS
+http://cdn.srv.br:8088/UCSTV/UCSTV/playlist.m3u8?CANALANDRONALTAS
+#EXTINF:-1 tvg-id="Futura" tvg-logo="https://listaiptvbrasil.com/logo/futura.png" group-title="Canais Digital", Futura - TVUSC
+http://cdn.srv.br:8088/UCSTV/UCSTV/playlist.m3u8?CANALANDRONALTAS
+#EXTINF:-1 tvg-id="Futura" tvg-logo="https://listaiptvbrasil.com/logo/futura.png" group-title="Canais Digital", Futura - TVUP
+http://caikron.com.br:1935/unipar/tvup/playlist.m3u8?CANALANDRONALTAS
+#EXTINF:-1 tvg-id="TV União" tvg-logo="https://listaiptvbrasil.com/logo/tvuniao.png" group-title="Canais Digital", TV Uniao
+http://stmv1.srvstm.com/tvuniao/tvuniao/playlist.m3u8?CANALANDRONALTAS
+#EXTINF:-1 tvg-id="Rede Meio Norte" tvg-logo="http://i.imgur.com/ZWgiH4d.png" group-title="Canais Digital", Rede Meio Norte SD
+http://api.new.livestream.com/accounts/3332377/events/2958396/live.m3u8?CANALANDRONALTAS
+#EXTINF:-1 tvg-id="Rede Meio Norte" tvg-logo="https://listaiptvbrasil.com/logo/redemeionorte.png" group-title="Canais Digital", Rede Meio Norte HD
+http://api.new.livestream.com/accounts/3332377/events/2958396/live.m3u8?CANALANDRONALTAS
+#EXTINF:-1 tvg-id="xxxxx" tvg-logo="https://lut.im/92pOCiaEap/gXmhc5awJkTEX8S9.png" group-title="Canais Digital", Rede New (Desenhos)
+http://srv3.zoeweb.tv:1935/z474-live/aovivo/livestream.m3u8?CANALANDRONALTAS
+#EXTINF:-1 tvg-id="TVE-RS" tvg-logo="http://s20.postimg.org/65vfkdnzh/TVE.png" group-title="Canais Digital", TVE RS
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8?CANALANDRONALTAS
+#EXTINF:-1 tvg-id="TVE Jundiaí" tvg-logo="" group-title="Canais Digital", TVE SD
+http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8?CANALANDRONALTAS
+#EXTINF:-1 tvg-id="TVE Jundiaí" tvg-logo="" group-title="Canais Digital", TVE HD SP
+http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8?CANALANDRONALTAS
+#EXTINF:-1 tvg-id="TVE Internacional" tvg-logo="https://listaiptvbrasil.com/logo/tvebahia.png"  group-title="Canais Digital", TVE Bahia HD
+http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8?CANALANDRONALTAS
+#EXTINF:-1 tvg-id="TVE-RS" tvg-logo="https://listaiptvbrasil.com/logo/tvers.png" group-title="Canais Digital", TVE-RS HD
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8?CANALANDRONALTAS
+#EXTINF:-1 tvg-id="SescTV" tvg-logo="http://i.imgur.com/EqJy1rP.png" group-title="Canais Digital", SescTV HD
+http://api.new.livestream.com/accounts/16991778/events/6670101/live.m3u8?CANALANDRONALTAS
+#EXTINF:-1 tvg-id="Mult TV" tvg-logo="https://listaiptvbrasil.com/logo/multitv.png" group-title="Canais Digital", Mult TV
+http://a3.fabricahost.com.br:1935/multitv/stream/live.m3u8?CANALANDRONALTAS
+#EXTINF:-1 tvg-id="xxxxx" tvg-logo="https://listaiptvbrasil.com/logo/tvgeral.png" group-title="Canais Digital", TV Geral BA
+http://fms1.tacitus.com.br:1935/tvgeral/tvgeral/live.m3u8?CANALANDRONALTAS
+#EXTINF:-1 tvg-id="xxxxx" tvg-logo="https://listaiptvbrasil.com/logo/tvfaap.png" group-title="Canais Digital", TV Faap
+http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8?CANALANDRONALTAS
+#EXTINF:-1 tvg-id="Rede Brasil" tvg-logo="http://i.imgur.com/uwzYiHs.png" group-title="Canais Digital", Rede Brasil SP Desenhos
+http://tv01.logicahost.com.br:1935/rbtv/rbtv/playlist.m3u8?CANALANDRONALTAS
+#EXTINF:-1 tvg-id="xxxxx" tvg-logo="http://s16.postimg.org/4rt4ter79/TV_INES.png" group-title="Canais Digital", TV Ines HD
+http://slrp.sambavideos.sambatech.com/liveevent/acerpTvINESABR_d360fbbfbf3e5e59a31cf89ec45eb3dc/livestream3/playlist.m3u8?CANALANDRONALTAS
+#EXTINF:-1 tvg-id="xxxxx" tvg-logo="http://i.imgur.com/wOpPfLX.png" group-title="Canais Digital", TV Campus UFSM
+http://200.18.45.14/hls-live/livepkgr/_definst_/videos.m3u8?CANALANDRONALTAS
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/SqKqiP" group-title="TV Aberta", TV Aberta
+http://srv9.zoeweb.tv:1935/
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/GSJed2X.png" group-title="TV Aberta",TV Urbana
+
+http://srv9.zoeweb.tv:1935/zw923/stream/playlist.m3u8?CANALANDRONALTAS
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/U5GKOZQ.jpg" group-title="TV Aberta",TVU Recife
+
+http://150.161.93.173/hls/720/index.m3u8?CANALANDRONALTAS
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/TX1jfAh.jpg" group-title="TV Aberta",TV Maceió
+
+http://173.236.10.10:1935/toptv/toptv/playlist.m3u8?CANALANDRONALTAS
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/eKWR7O8.jpg" group-title="TV Aberta",Rede Minas
+
+rtmp://200.198.40.3/live/livestream?CANALANDRONALTAS
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zSjhqKy.png" group-title="TV Aberta",RCTV
+
+http://v3.ciclano.io:1935/rctv/rctv.smil/playlist.m3u8?CANALANDRONALTAS
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/M2N7X4V.png" group-title="TV Aberta",TV Aberta SP
+
+http://inaclive.tv.br:1935/tvabertalive/tvabertalive/playlist.m3u8?CANALANDRONALTAS
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/ZWgiH4d.png" group-title="TV Aberta",TV Meio Norte
+http://api.new.livestream.com/accounts/3332377/events/2958396/live.m3u8?CANALANDRONALTAS
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/2IqYTN4.png" group-title="TV Aberta",Canal Saúde RS
+
+http://shflash.directradios.com:1935/furgtv/stream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://lut.im/MvnOLjCVSP/2SBtbgPvc2D0okYj.png" group-title="TV Aberta",SEC TV
+
+http://hd4.com.br:1935/sectv2/sectv2/playlist.m3u8?CANALANDRONALTAS
+#EXTINF:-1 tvg-id="" tvg-logo="https://s29.postimg.org/3oe7k3gif/bg_rodape_logo_tv_ufg.png" group-title="TV Aberta",UFG TV
+http://wowza.softhost.com.br:1935/ufg/tvufgweb/playlist.m3u8?CANALANDRONALTAS
+#EXTINF:-1 tvg-id="TV TEM Bauru" tvg-logo="http://s24.postimg.org/3mh5iwvph/TVT.png" group-title="TV Aberta",TVT
+http://wse8.player.tv.br:1935/aovivotvt/aovivotvt/playlist.m3u8?CANALANDRONALTAS
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s20.postimg.org/jl02qv2y5/tvfaap.png" group-title="TV Aberta",TV FAAP
+
+http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8?CANALANDRONALTAS
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s16.postimg.org/6m5zb5e7p/TV_Medicina_Sa_de.png" group-title="TV Aberta",TV Medicina & Saúde
+http://rtmp.cdn.upx.net.br:1935/7dcb/myStream.sdp/playlist.m3u8?CANALANDRONALTAS
+#EXTINF:-1 tvg-id="" tvg-logo="http://s16.postimg.org/4rt4ter79/TV_INES.png" group-title="TV Aberta",TV INES
+http://slrp.sambavideos.sambatech.com/liveevent/acerpTvINESABR_d360fbbfbf3e5e59a31cf89ec45eb3dc/livestream2/playlist.m3u8?CANALANDRONALTAS
+#EXTINF:-1 tvg-id="" tvg-logo="http://s16.postimg.org/4rt4ter79/TV_INES.png" group-title="TV Aberta",TV INES HD
+http://slrp.sambavideos.sambatech.com/liveevent/acerpTvINESABR_d360fbbfbf3e5e59a31cf89ec45eb3dc/livestream3/playlist.m3u8?CANALANDRONALTAS
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/sQwm6Cl.png" group-title="TV Aberta",Rede Familia
+
+http://srv9.zoeweb.tv:1935/zw901/zw901.smil/playlist.m3u8?CANALANDRONALTAS
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/xGYSOgE.png" group-title="TV Aberta",Agro Brasil
+
+http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8?CANALANDRONALTAS
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s30.postimg.org/c6rieq3ch/Novo_Canal.png" group-title="TV Aberta",Novo Canal
+
+http://live.sba1.com:80/hls-live/livenc/_definst_/liveevent/livestream.m3u8?CANALANDRONALTAS
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/Gk7EWc9.png" group-title="TV Aberta",Agro Canal
+
+http://live.sba1.com:80/hls-live/liveac/_definst_/liveevent/livestream.m3u8?CANALANDRONALTAS
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/VBcEqPw.png" group-title="TV Aberta",Conexão BR
+
+http://live.sba1.com:80/hls-live/livecx/_definst_/liveevent/livestream.m3u8?CANALANDRONALTAS
+
+#EXTINF:-1 tvg-id="Canal do Boi [Brazil]" tvg-logo="http://i.imgur.com/NKRWvKq.png" group-title="TV Aberta",Canal do Boi
+
+http://live.sba1.com:80/hls-live/livecb/_definst_/liveevent/livestream.m3u8?CANALANDRONALTAS
+#EXTINF:-1 tvg-id="Canal Rural" tvg-logo="http://i.imgur.com/jtiMetX.png" group-title="TV Aberta",Canal Rural
+
+http://67149o.ha.azioncdn.net/hlsmedium/playlist.m3u8?CANALANDRONALTAS
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/jtiMetX.png" group-title="TV Aberta",Canal Rural X
+
+http://77149o.ha.azioncdn.net/hlslow/playlist.m3u8?CANALANDRONALTAS
+#EXTINF:-1 tvg-id="" tvg-logo="http://s20.postimg.org/6jizer3xp/Amazon_Sat.png" group-title="TV Aberta",Amazon Sat
+http://slrp.sambavideos.sambatech.com/liveevent/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream3/playlist.m3u8?CANALANDRONALTAS
+#EXTINF:-1 tvg-id="TV Gazeta [Brazil]" tvg-logo="http://i.imgur.com/Or3Q4WA.png" group-title="TV Aberta",TV Gazeta SP HD
+http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8?CANALANDRONALTAS
+#EXTINF:-1 tvg-id="TV Gazeta [Brazil]" tvg-logo="http://i.imgur.com/Or3Q4WA.png" group-title="TV Aberta",TV Gazeta RN
+
+http://172.93.110.130:1935/televisaorn/televisaorn/playlist.m3u8?CANALANDRONALTAS
+
+#EXTINF:-1 tvg-id="TV Gazeta [Brazil]" tvg-logo="http://i.imgur.com/Or3Q4WA.png" group-title="TV Aberta",TV Gazeta MA
+http://172.93.110.130:1935/tvalternativa/tvalternativa/playlist.m3u8?CANALANDRONALTAS
+#EXTINF:-1 tvg-id="TV Diario" tvg-logo="http://s20.postimg.org/lw2q8s33h/TV_Di_rio.png" group-title="TV Aberta",TV Diário
+http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/playlist.m3u8?CANALANDRONALTAS
+#EXTINF:-1 tvg-id="Globo SP" tvg-logo="http://s17.postimg.org/w75u3yg1n/globo2.png" group-title="TV Aberta",Globo SP
+http://95.141.35.104:8081/looktvs/sptvn/playlist.m3u8?CANALANDRONALTAS
+
+#EXTINF:-1 tvg-id="Globo Rio" tvg-logo="http://s17.postimg.org/w75u3yg1n/globo2.png" group-title="TV Aberta",Globo RJ
+http://158.58.172.5:8081/looktvs/0globo/playlist.m3u8?CANALANDRONALTAS
+#EXTINF:-1 tvg-id="Globo Brasília" tvg-logo="http://s17.postimg.org/w75u3yg1n/globo2.png" group-title="TV Aberta",Globo Nordeste
+
+http://tv.ec.cx:1935/redecanais-stream-bobo/myStream/chunklist.m3u8?CANALANDRONALTAS
+#EXTINF:-1 tvg-id="SBT" tvg-logo="http://s32.postimg.org/5fmicyl3p/SBT1.png" group-title="TV Aberta",SBT SP
+http://gbbrlive2.sambatech.com.br/liveevent/sbtabr_8fcdc5f0f8df8d4de56b22a2c6660470/livestream2/playlist.m3u8?CANALANDRONALTAS
+#EXTINF:-1 tvg-id="SBT" tvg-logo="http://s32.postimg.org/5fmicyl3p/SBT1.png" group-title="TV Aberta",SBT SP Interior
+
+http://srv6.zoeweb.tv:1935/z343-live/stream/playlist.m3u8?CANALANDRONALTAS
+
+#EXTINF:-1 tvg-id="SBT" tvg-logo="http://s32.postimg.org/5fmicyl3p/SBT1.png" group-title="TV Aberta",SBT PI
+
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8?CANALANDRONALTAS
+
+#EXTINF:-1 tvg-id="SBT" tvg-logo="http://s32.postimg.org/5fmicyl3p/SBT1.png" group-title="TV Aberta",SBT PB
+http://tv.paraibahost.com.br:1935/tvtambau/tvtambau/playlist.m3u8?CANALANDRONALTAS
+#EXTINF:-1 tvg-id="SBT" tvg-logo="http://s32.postimg.org/5fmicyl3p/SBT1.png" group-title="TV Aberta",SBT GO HD
+http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/playlist.m3u8?CANALANDRONALTAS
+#EXTINF:-1 tvg-id="SBT" tvg-logo="http://s32.postimg.org/5fmicyl3p/SBT1.png" group-title="TV Aberta",SBT RN
+http://mediacenter.tvpontanegra.com.br:1935/live/livestream/playlist.m3u8?CANALANDRONALTAS
+#EXTINF:-1 tvg-id="SBT" tvg-logo="http://s32.postimg.org/5fmicyl3p/SBT1.png" group-title="TV Aberta",SBT MA
+https://hls.live.metacdn.com/2450C7/beqgwjkrs/tvdifusorasul_596.m3u8?CANALANDRONALTAS
+#EXTINF:-1 tvg-id="SBT" tvg-logo="http://s32.postimg.org/5fmicyl3p/SBT1.png" group-title="TV Aberta",SBT PE
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1716953599_b176000_sleng.m3u8?CANALANDRONALTAS
+#EXTINF:-1 tvg-id="SBT" tvg-logo="http://s32.postimg.org/5fmicyl3p/SBT1.png" group-title="TV Aberta",SBT PE Interior
+http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8?CANALANDRONALTAS
+#EXTINF:-1 tvg-id="Band" tvg-logo="http://s6.postimg.org/ttsxgsc1t/band.png" group-title="TV Aberta",Band SP
+http://95.141.32.213:8081/looktvs/bandsp/playlist.m3u8?CANALANDRONALTAS
+#EXTINF:-1 tvg-id="Band" tvg-logo="http://s6.postimg.org/ttsxgsc1t/band.png" group-title="TV Aberta",Band PA
+http://stmv3.srvstm.com:1935/rbatv12/rbatv12/playlist.m3u8?CANALANDRONALTAS
+#EXTINF:-1 tvg-id="Record" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Aberta",Record SP
+http://158.58.172.5:8081/look/recordy/playlist.m3u8?CANALANDRONALTAS
+#EXTINF:-1 tvg-id="Record" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Aberta",Record SC 
+https://ricmais.com.br/sc/streaming/show/ric_hd720.m3u8?CANALANDRONALTAS
+#EXTINF:-1 tvg-id="Record" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Aberta",Record AM
+http://iphone-streaming.ustream.tv:80/uhls/22972089/streams/live/playlist.m3u8?CANALANDRONALTAS
+#EXTINF:-1 tvg-id="Record" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Aberta",Record RN
+http://184.172.23.109:1935/live/tvtrop_natal/tvtrop_natal_aovivo/playlist.m3u8?CANALANDRONALTAS
+#EXTINF:-1 tvg-id="Record" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Aberta",Record ES
+http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8?CANALANDRONALTAS
+#EXTINF:-1 tvg-id="Record" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Aberta",Record GO
+http://srv3.zoeweb.tv:1935/zw315/zw315tv/playlist.m3u8?CANALANDRONALTAS
+#EXTINF:-1 tvg-id="Record" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Aberta",Record MT
+http://wz3.dnip.com.br:1935/tvgazetamt/tvgazetamt.sdp/playlist.m3u8?CANALANDRONALTAS
+#EXTINF:-1 tvg-id="Record" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Aberta",Record Internacional
+http://api.new.livestream.com/accounts/21076186/events/6180705/live.m3u8?CANALANDRONALTAS
+#EXTINF:-1 tvg-id="RedeTV!" tvg-logo="http://i.imgur.com/k4haEx6.png" group-title="TV Aberta",Rede TV SP
+http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8?CANALANDRONALTAS
+#EXTINF:-1 tvg-id="RedeTV!" tvg-logo="http://i.imgur.com/k4haEx6.png" group-title="TV Aberta",Rede TV RJ
+http://evpp.mm.uol.com.br:1935/redetv2/redetv2/playlist.m3u8?CANALANDRONALTAS
+#EXTINF:-1 tvg-id="RedeTV!" tvg-logo="http://i.imgur.com/k4haEx6.png" group-title="TV Aberta",Rede TV GO
+http://srv3.zoeweb.tv:1935/z94-live/stream/playlist.m3u8?CANALANDRONALTAS
+#EXTINF:-1 tvg-id="RedeTV!" tvg-logo="http://i.imgur.com/k4haEx6.png" group-title="TV Aberta",Rede TV PB
+https://v5.ciclano.io:1443/8064/8064/playlist.m3u8?CANALANDRONALTAS
+#EXTINF:-1 tvg-id="RedeTV!" tvg-logo="http://i.imgur.com/k4haEx6.png" group-title="TV Aberta",RedeTV RN
+http://172.93.110.130:1935/retransmissao/retransmissao/playlist.m3u8?CANALANDRONALTAS
+#EXTINF:-1 tvg-id="RedeTV!" tvg-logo="http://i.imgur.com/yxGs0mZ.png" group-title="TV Aberta",Rede TV PR HD
+http://108.168.158.146:1935/live/tvsudoeste/livestream.m3u8?CANALANDRONALTAS
+#EXTINF:-1 tvg-id="RedeTV!" tvg-logo="http://i.imgur.com/k4haEx6.png" group-title="TV Aberta",Rede TV RO
+http://173.236.10.10:1935/tvonline/tvonline/playlist.m3u8?CANALANDRONALTAS
+#EXTINF:-1 tvg-id="TVE Internacional" tvg-logo="http://i.imgur.com/gQ4GDzQ.png" group-title="TV Aberta",TVE RS
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8?CANALANDRONALTAS
+#EXTINF:-1 tvg-id="TVE Internacional" tvg-logo="http://i.imgur.com/kLWg5sp.png" group-title="TV Aberta",TVE BA HD
+http://200.187.60.190:80/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8?CANALANDRONALTAS
+#EXTINF:-1 tvg-id="TV Escola [Brazil]" tvg-logo="http://i.imgur.com/Yj9UKv2.png" group-title="TV Aberta",TV Escola
+http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream2/playlist.m3u8?CANALANDRONALTAS
+#EXTINF:-1 tvg-logo="https://goo.gl/KhR6fx" group-title="Esportes", Esportes
+http://srv9.zoeweb.tv:1935/
+#EXTINF:-1 tvg-id="PremiereFC [Brazil]" tvg-logo="http://s29.postimg.org/ekm15dgtv/premiere_fc.png" group-title="Esportes",Premiere Clubes
+http://95.141.35.104:8081/looktvs/pfc1/playlist.m3u8?CANALANDRONALTAS
+#EXTINF:-1 tvg-id="" tvg-logo="http://s29.postimg.org/ekm15dgtv/premiere_fc.png" group-title="Esportes",Premiere 2
+#EXTINF:-1 tvg-id="" tvg-logo="http://s29.postimg.org/ekm15dgtv/premiere_fc.png" group-title="Esportes",Premiere 3
+#EXTINF:-1 tvg-id="" tvg-logo="http://s29.postimg.org/ekm15dgtv/premiere_fc.png" group-title="Esportes",Premiere 4
+#EXTINF:-1 tvg-id="" tvg-logo="http://s29.postimg.org/ekm15dgtv/premiere_fc.png" group-title="Esportes",Premiere 5
+#EXTINF:-1 tvg-id="" tvg-logo="http://s29.postimg.org/ekm15dgtv/premiere_fc.png" group-title="Esportes",Premiere 6
+#EXTINF:-1 tvg-id="" tvg-logo="http://s29.postimg.org/ekm15dgtv/premiere_fc.png" group-title="Esportes",Premiere 7
+#EXTINF:-1 tvg-id="" tvg-logo="http://s29.postimg.org/ekm15dgtv/premiere_fc.png" group-title="Esportes",Premiere 8
+#EXTINF:-1 tvg-id="Fish TV" tvg-logo="http://s20.postimg.org/evsil85gt/Fish_TV.png" group-title="Esportes",Fish TV
+#EXTINF:-1 tvg-id="ESPN Brasil" tvg-logo="http://s20.postimg.org/lg17li0lp/ESPNBrasil.png" group-title="Esportes",ESPN Brasil
+http://158.58.172.5:8081/look/espnbrs/playlist.m3u8?CANALANDRONALTAS
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="http://s20.postimg.org/uwr0s4kgd/ESPN.png" group-title="Esportes",ESPN
+#EXTINF:-1 tvg-id="ESPN +" tvg-logo="http://s20.postimg.org/78biwunwt/ESPN.png" group-title="Esportes",ESPN+
+#EXTINF:-1 tvg-id="Esporte Interativo" tvg-logo="http://s20.postimg.org/gzjgnysgd/esporte_interativo.png" group-title="Esportes",Esporte Interativo
+#EXTINF:-1 tvg-id="EI Maxx" tvg-logo="http://s20.postimg.org/4v476zfkd/eimaxx.png" group-title="Esportes",EI Maxx
+#EXTINF:-1 tvg-id="EI Maxx 2" tvg-logo="http://s20.postimg.org/xm10x1le5/eimaxx2.png" group-title="Esportes",EI Maxx 2
+#EXTINF:-1 tvg-id="Woohoo" tvg-logo="http://s20.postimg.org/qh7qq1x9p/Woohoo.png" group-title="Esportes",Woohoo
+#EXTINF:-1 tvg-id="Off" tvg-logo="http://s20.postimg.org/bzaji25yl/Canal_Off.png" group-title="Esportes",Off
+#EXTINF:-1 tvg-id="" tvg-logo="http://s20.postimg.org/vxo3d63d9/nba.jpg" group-title="Esportes",NBA
+http://31.204.150.12:8080/edge/4304/tracks-v1a1/index.m3u8?token=17.18.1487.6d44eab61dcf5b1f0e6fa8f6595ee1bc.1.1.1.641.0.0.71875765cf0ee5df30360b6487a7b6ec
+#EXTINF:-1 tvg-id="BandSports" tvg-logo="http://s20.postimg.org/44ntwrq19/Band_Sport.png" group-title="Esportes",Band Sports
+#EXTINF:-1 tvg-id="Combate [Brazil]" tvg-logo="http://s32.postimg.org/7yy5aszit/combate2.png" group-title="Esportes",Combate
+http://158.58.172.5:8081/looktvs/combate3/playlist.m3u8?CANALANDRONALTAS
+#EXTINF:-1 tvg-id="SporTV" tvg-logo="http://s20.postimg.org/zcwx1096x/Spor_TV.png" group-title="Esportes",SporTV
+http://95.141.35.104:8081/looktvs/0sportv/playlist.m3u8?CANALANDRONALTAS
+#EXTINF:-1 tvg-id="SporTV 2" tvg-logo="http://s20.postimg.org/ccq9oobd5/Spor_TV2.png" group-title="Esportes",SporTV 2
+#EXTINF:-1 tvg-id="SporTV 3" tvg-logo="http://s20.postimg.org/6d2il0qkp/Spor_TV3.png" group-title="Esportes",SporTV 3
+#EXTINF:-1 tvg-id="FoxSports" tvg-logo="http://s20.postimg.org/6t0raqvf1/Fox_Sport.png" group-title="Esportes",Fox Sports
+http://95.141.32.213:8081/looktvs/foxsport/playlist.m3u8?CANALANDRONALTAS
+#EXTINF:-1 tvg-id="FoxSports 2" tvg-logo="http://s20.postimg.org/tizw3qeml/Fox_Sports2.png" group-title="Esportes",Fox Sports 2
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/yPysPGV.png" group-title="Esportes",Sport TV 2
+rtmp://185.80.220.79:15214/streamM/CLANGj2Xof.stream?CANALANDRONALTAS
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/yPysPGV.png" group-title="Esportes",Sport TV 5
+rtmp://185.80.220.79:15214/streamM/xZxIbGC9NR.stream?CANALANDRONALTAS
+#EXTINF:-1 tvg-id="Real Madrid TV" tvg-logo="http://i.imgur.com/5jMqNpW.png" group-title="Esportes",Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8?CANALANDRONALTAS
+#EXTINF:-1 tvg-id="" tvg-logo="http://s20.postimg.org/meg97lm7h/Horse_Brasil_TV.png" group-title="Esportes",Horse Brasil HD
+http://490636978.r.worldcdn.net/490636978/_definst_//horsebrasil1/playlist.m3u8?CANALANDRONALTAS
+#EXTINF:-1 tvg-id="" tvg-logo="http://s20.postimg.org/7j60cwlfx/allspots.png" group-title="Esportes",All Sports BR
+http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8?CANALANDRONALTAS
+#EXTINF:-1 tvg-id="Real Madrid TV" tvg-logo="https://listaiptvbrasil.com/logo/realmadrid.jpg" group-title="Canais Esportes", Real Madrid TV SD
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8?CANALANDRONALTAS
+#EXTINF:-1 tvg-id="Real Madrid TV" tvg-logo="http://i.imgur.com/5jMqNpW.png" group-title="Canais Esportes", Real Madrid TV HD
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?CANALANDRONALTAS
+#EXTINF:-1 tvg-id="Esporte Interativo" tvg-logo="http://s20.postimg.org/gzjgnysgd/esporte_interativo.png" group-title="Canais Esportes", Esporte Interativo HD
+http://l3-ei-ee-cdn-mdstrm.secure.footprint.net/live-stream-secure/580126d58e928419094b5527/publish/media_2500.m3u8?access_token=bQ1zfiiuLiobsN52xpUUH3Ofw5AgW1xCI9gChlXeupubwqBCrOgpQZW3CzUleK1jqbH6YVrjgaH&es=l3-ei-ee-cdn-mdstrm.secure.footprint.net&proto=http
+#EXTINF:-1 tvg-id="EI Maxx HD" tvg-logo="http://s20.postimg.org/4v476zfkd/eimaxx.png" group-title="Canais Esportes", EI Maxx
+http://l3-ei-ee-cdn-mdstrm.secure.footprint.net/live-stream-secure/58121908685da2dd08de7ec5/publish/media_400.m3u8?access_token=bQ1zfiiuLiobsN52xpUUH3Ofw5AgW1xCI9gChlXeupubwqBCrOgpQZW3CzUleK1jqbH6YVrjgaH&es=l3-ei-ee-cdn-mdstrm.secure.footprint.net&proto=http
+#EXTINF:-1 tvg-id="EI Maxx HD" tvg-logo="http://s20.postimg.org/4v476zfkd/eimaxx.png" group-title="Canais Esportes", EI Maxx HD
+http://l3-ei-ee-cdn-mdstrm.secure.footprint.net/live-stream-secure/58121908685da2dd08de7ec5/publish/media_2500.m3u8?access_token=bQ1zfiiuLiobsN52xpUUH3Ofw5AgW1xCI9gChlXeupubwqBCrOgpQZW3CzUleK1jqbH6YVrjgaH&es=l3-ei-ee-cdn-mdstrm.secure.footprint.net&proto=http
+#EXTINF:-1 tvg-id="EI Maxx 2 HD" tvg-logo="http://s20.postimg.org/xm10x1le5/eimaxx2.png" group-title="Canais Esportes", EI Maxx 2
+http://l3-ei-ee-cdn-mdstrm.secure.footprint.net/live-stream-secure/5801261189b415d108f9603c//publish//media_400.m3u8?access_token=bQ1zfiiuLiobsN52xpUUH3Ofw5AgW1xCI9gChlXeupubwqBCrOgpQZW3CzUleK1jqbH6YVrjgaH&es=l3-ei-ee-cdn-mdstrm.secure.footprint.net&proto=http
+#EXTINF:-1 tvg-id="EI Maxx 2 HD" tvg-logo="http://s20.postimg.org/xm10x1le5/eimaxx2.png" group-title="Canais Esportes", EI Maxx 2 HD
+http://l3-ei-ee-cdn-mdstrm.secure.footprint.net/live-stream-secure/5801261189b415d108f9603c//publish//media_2500.m3u8?access_token=bQ1zfiiuLiobsN52xpUUH3Ofw5AgW1xCI9gChlXeupubwqBCrOgpQZW3CzUleK1jqbH6YVrjgaH&es=l3-ei-ee-cdn-mdstrm.secure.footprint.net&proto=http
+#EXTINF:-1 tvg-id="xxxxx" tvg-logo="http://s20.postimg.org/meg97lm7h/Horse_Brasil_TV.png" group-title="Esportes",Horse Brasil HD
+http://490636978.r.worldcdn.net/490636978/_definst_//horsebrasil1/playlist.m3u8?CANALANDRONALTAS
+#EXTINF:-1 tvg-id="xxxxx" tvg-logo="http://s20.postimg.org/7j60cwlfx/allspots.png" group-title="Canais Esportes", All Sports BR HD
+http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8?CANALANDRONALTAS
+#EXTINF:-1 tvg-ID="Combate" tvg-logo="" group-title="Esportes", Combate
+http://158.58.172.5:8081/look/combate3/playlist.m3u8?CANALANDRONALTAS
+#EXTINF:-1 tvg-ID="xxxxx" tvg-logo="" group-title="Esportes", Horse Brasil HD
+http://490636978.r.worldcdn.net/490636978/_definst_//horsebrasil1/playlist.m3u8?CANALANDRONALTAS
+
+
+
+
+
+
+
+
 #EXTINF: -1, TV Gideoes HD
 http://rhagf.co:25461/live/jacobeboerromulo/C9K1Gh9APm/1214.ts
 #EXTINF: -1, Boa Vontade FHD
