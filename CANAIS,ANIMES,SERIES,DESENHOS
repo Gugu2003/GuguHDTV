@@ -1,332 +1,57 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://bit.ly/2i3ixgS" group-title="TEEN WOLF", TEEN WOLF T1|EP1
-http://cdnv5.ec.cx/RedeCanais/RCServer05/ondemand/TNWLFT01EP01.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2i3ixgS" group-title="TEEN WOLF", TEEN WOLF T1|EP2
-http://cdnv5.ec.cx/RedeCanais/RCServer05/ondemand/TNWLFT01EP02.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2i3ixgS" group-title="TEEN WOLF", TEEN WOLF T1|EP3
-http://cdnv5.ec.cx/RedeCanais/RCServer05/ondemand/TNWLFT01EP03.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2i3ixgS" group-title="TEEN WOLF", TEEN WOLF T1|EP4
-http://cdnv5.ec.cx/RedeCanais/RCServer05/ondemand/TNWLFT01EP04.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2i3ixgS" group-title="TEEN WOLF", TEEN WOLF T1|EP5
-http://cdnv5.ec.cx/RedeCanais/RCServer05/ondemand/TNWLFT01EP05.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2i3ixgS" group-title="TEEN WOLF", TEEN WOLF T1|EP6
-http://cdnv5.ec.cx/RedeCanais/RCServer05/ondemand/TNWLFT01EP06.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2i3ixgS" group-title="TEEN WOLF", TEEN WOLF T1|EP7
-http://cdnv5.ec.cx/RedeCanais/RCServer05/ondemand/TNWLFT01EP07.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2i3ixgS" group-title="TEEN WOLF", TEEN WOLF T1|EP8
-http://cdnv5.ec.cx/RedeCanais/RCServer05/ondemand/TNWLFT01EP08.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2i3ixgS" group-title="TEEN WOLF", TEEN WOLF T1|EP9
-http://cdnv5.ec.cx/RedeCanais/RCServer05/ondemand/TNWLFT01EP09.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2i3ixgS" group-title="TEEN WOLF", TEEN WOLF T1|EP10
-http://cdnv5.ec.cx/RedeCanais/RCServer05/ondemand/TNWLFT01EP10.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2i3ixgS" group-title="TEEN WOLF", TEEN WOLF T1|EP11
-http://cdnv5.ec.cx/RedeCanais/RCServer05/ondemand/TNWLFT01EP11.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2i3ixgS" group-title="TEEN WOLF", TEEN WOLF T1|EP12
-http://cdnv5.ec.cx/RedeCanais/RCServer05/ondemand/TNWLFT01EP12.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2i3ixgS" group-title="TEEN WOLF", TEEN WOLF T2|EP1
-http://cdnv5.ec.cx/RedeCanais/RCServer05/ondemand/TNWLFT02EP01.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2i3ixgS" group-title="TEEN WOLF", TEEN WOLF T2|EP2
-http://cdnv5.ec.cx/RedeCanais/RCServer05/ondemand/TNWLFT02EP02.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2i3ixgS" group-title="TEEN WOLF", TEEN WOLF T2|EP3
-http://cdnv5.ec.cx/RedeCanais/RCServer05/ondemand/TNWLFT02EP03.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2i3ixgS" group-title="TEEN WOLF", TEEN WOLF T2|EP4
-http://cdnv5.ec.cx/RedeCanais/RCServer05/ondemand/TNWLFT02EP04.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2i3ixgS" group-title="TEEN WOLF", TEEN WOLF T2|EP5
-http://cdnv5.ec.cx/RedeCanais/RCServer05/ondemand/TNWLFT02EP05.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2i3ixgS" group-title="TEEN WOLF", TEEN WOLF T2|EP6
-http://cdnv5.ec.cx/RedeCanais/RCServer05/ondemand/TNWLFT02EP06.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2i3ixgS" group-title="TEEN WOLF", TEEN WOLF T2|EP7
-http://cdnv5.ec.cx/RedeCanais/RCServer05/ondemand/TNWLFT02EP07.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2i3ixgS" group-title="TEEN WOLF", TEEN WOLF T2|EP8
-http://cdnv5.ec.cx/RedeCanais/RCServer05/ondemand/TNWLFT02EP08.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2i3ixgS" group-title="TEEN WOLF", TEEN WOLF T2|EP9
-http://cdnv5.ec.cx/RedeCanais/RCServer05/ondemand/TNWLFT02EP09.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2i3ixgS" group-title="TEEN WOLF", TEEN WOLF T2|EP10
-http://cdnv5.ec.cx/RedeCanais/RCServer05/ondemand/TNWLFT02EP10.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2i3ixgS" group-title="TEEN WOLF", TEEN WOLF T2|EP11
-http://cdnv5.ec.cx/RedeCanais/RCServer05/ondemand/TNWLFT02EP11.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2i3ixgS" group-title="TEEN WOLF", TEEN WOLF T2|EP12
-http://cdnv5.ec.cx/RedeCanais/RCServer05/ondemand/TNWLFT02EP12.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2i3ixgS" group-title="TEEN WOLF", TEEN WOLF T3|EP1
-https://www.blogger.com/video-play.mp4?contentId=52b989a3f0959f44
-#EXTINF:-1 tvg-logo="http://bit.ly/2i3ixgS" group-title="TEEN WOLF", TEEN WOLF T3|EP2
-https://www.blogger.com/video-play.mp4?contentId=9bdcfa8e2c627a6f
-#EXTINF:-1 tvg-logo="http://bit.ly/2i3ixgS" group-title="TEEN WOLF", TEEN WOLF T3|EP3
-https://www.blogger.com/video-play.mp4?contentId=af066367e149fa00
-#EXTINF:-1 tvg-logo="http://bit.ly/2i3ixgS" group-title="TEEN WOLF", TEEN WOLF T3|EP4
-https://www.blogger.com/video-play.mp4?contentId=701168ce85512c7
-#EXTINF:-1 tvg-logo="http://bit.ly/2i3ixgS" group-title="TEEN WOLF", TEEN WOLF T3|EP5
-https://www.blogger.com/video-play.mp4?contentId=2c0b69229e0a4d4b
-#EXTINF:-1 tvg-logo="http://bit.ly/2i3ixgS" group-title="TEEN WOLF", TEEN WOLF T3|EP6
-https://www.blogger.com/video-play.mp4?contentId=246d2f2462fae2b9
-#EXTINF:-1 tvg-logo="http://bit.ly/2i3ixgS" group-title="TEEN WOLF", TEEN WOLF T3|EP7
-https://www.blogger.com/video-play.mp4?contentId=aa63df547ae3b2c2
-#EXTINF:-1 tvg-logo="http://bit.ly/2i3ixgS" group-title="TEEN WOLF", TEEN WOLF T3|EP8
-https://www.blogger.com/video-play.mp4?contentId=92f9bc3edd14d834
-#EXTINF:-1 tvg-logo="http://bit.ly/2i3ixgS" group-title="TEEN WOLF", TEEN WOLF T3|EP9
-https://www.blogger.com/video-play.mp4?contentId=8d1c3e9001750934
-#EXTINF:-1 tvg-logo="http://bit.ly/2i3ixgS" group-title="TEEN WOLF", TEEN WOLF T3|EP10
-https://www.blogger.com/video-play.mp4?contentId=a737745889524866
-#EXTINF:-1 tvg-logo="http://bit.ly/2i3ixgS" group-title="TEEN WOLF", TEEN WOLF T3|EP11
-https://www.blogger.com/video-play.mp4?contentId=c402c19a913dae5e
-#EXTINF:-1 tvg-logo="http://bit.ly/2i3ixgS" group-title="TEEN WOLF", TEEN WOLF T3|EP12
-https://www.blogger.com/video-play.mp4?contentId=7af6e17719b92ec5
-#EXTINF:-1 tvg-logo="http://bit.ly/2i3ixgS" group-title="TEEN WOLF", TEEN WOLF T3|EP13
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/TNWLFT03EP13.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2i3ixgS" group-title="TEEN WOLF", TEEN WOLF T3|EP14
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/TNWLFT03EP14.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2i3ixgS" group-title="TEEN WOLF", TEEN WOLF T3|EP15
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/TNWLFT03EP15.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2i3ixgS" group-title="TEEN WOLF", TEEN WOLF T3|EP16
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/TNWLFT03EP16.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2i3ixgS" group-title="TEEN WOLF", TEEN WOLF T3|EP17
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/TNWLFT03EP17.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2i3ixgS" group-title="TEEN WOLF", TEEN WOLF T3|EP18
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/TNWLFT03EP18.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2i3ixgS" group-title="TEEN WOLF", TEEN WOLF T3|EP19
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/TNWLFT03EP19.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2i3ixgS" group-title="TEEN WOLF", TEEN WOLF T3|EP20
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/TNWLFT03EP20.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2i3ixgS" group-title="TEEN WOLF", TEEN WOLF T3|EP21
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/TNWLFT03EP21.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2i3ixgS" group-title="TEEN WOLF", TEEN WOLF T3|EP22
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/TNWLFT03EP22.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2i3ixgS" group-title="TEEN WOLF", TEEN WOLF T3|EP23
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/TNWLFT03EP23.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2i3ixgS" group-title="TEEN WOLF", TEEN WOLF T3|EP24
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/TNWLFT03EP24.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2i3ixgS" group-title="TEEN WOLF", TEEN WOLF T4|EP1
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/TNWLFT04EP01.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2i3ixgS" group-title="TEEN WOLF", TEEN WOLF T4|EP2
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/TNWLFT04EP02.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2i3ixgS" group-title="TEEN WOLF", TEEN WOLF T4|EP3
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/TNWLFT04EP03.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2i3ixgS" group-title="TEEN WOLF", TEEN WOLF T4|EP4
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/TNWLFT04EP04.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2i3ixgS" group-title="TEEN WOLF", TEEN WOLF T4|EP5
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/TNWLFT04EP05.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2i3ixgS" group-title="TEEN WOLF", TEEN WOLF T4|EP6
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/TNWLFT04EP06.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2i3ixgS" group-title="TEEN WOLF", TEEN WOLF T4|EP7
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/TNWLFT04EP07.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2i3ixgS" group-title="TEEN WOLF", TEEN WOLF T4|EP8
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/TNWLFT04EP08.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2i3ixgS" group-title="TEEN WOLF", TEEN WOLF T4|EP9
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/TNWLFT04EP09.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2i3ixgS" group-title="TEEN WOLF", TEEN WOLF T4|EP10
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/TNWLFT04EP10.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2i3ixgS" group-title="TEEN WOLF", TEEN WOLF T4|EP11
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/TNWLFT04EP11.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2i3ixgS" group-title="TEEN WOLF", TEEN WOLF T4|EP12
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/TNWLFT04EP12.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2i3ixgS" group-title="TEEN WOLF", TEEN WOLF T5|EP1
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/TNWLFT05EP01.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2i3ixgS" group-title="TEEN WOLF", TEEN WOLF T5|EP2
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/TNWLFT05EP02.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2i3ixgS" group-title="TEEN WOLF", TEEN WOLF T5|EP3
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/TNWLFT05EP03.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2i3ixgS" group-title="TEEN WOLF", TEEN WOLF T5|EP4
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/TNWLFT05EP04.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2i3ixgS" group-title="TEEN WOLF", TEEN WOLF T5|EP5
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/TNWLFT05EP05.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2i3ixgS" group-title="TEEN WOLF", TEEN WOLF T5|EP6
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/TNWLFT05EP06.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2i3ixgS" group-title="TEEN WOLF", TEEN WOLF T5|EP7
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/TNWLFT05EP07.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2i3ixgS" group-title="TEEN WOLF", TEEN WOLF T5|EP8
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/TNWLFT05EP08.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2i3ixgS" group-title="TEEN WOLF", TEEN WOLF T5|EP9
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/TNWLFT05EP09.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2i3ixgS" group-title="TEEN WOLF", TEEN WOLF T5|EP10
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/TNWLFT05EP10.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2i3ixgS" group-title="TEEN WOLF", TEEN WOLF T5|EP11
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/TNWLFT05EP11.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2i3ixgS" group-title="TEEN WOLF", TEEN WOLF T5|EP12
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/TNWLFT05EP12.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2i3ixgS" group-title="TEEN WOLF", TEEN WOLF T5|EP13
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/TNWLFT05EP13.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2i3ixgS" group-title="TEEN WOLF", TEEN WOLF T5|EP14
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/TNWLFT05EP14.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2i3ixgS" group-title="TEEN WOLF", TEEN WOLF T5|EP15
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/TNWLFT05EP15.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2i3ixgS" group-title="TEEN WOLF", TEEN WOLF T5|EP16
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/TNWLFT05EP16.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2i3ixgS" group-title="TEEN WOLF", TEEN WOLF T5|EP17
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/TNWLFT05EP17.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2i3ixgS" group-title="TEEN WOLF", TEEN WOLF T5|EP18
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/TNWLFT05EP18.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2i3ixgS" group-title="TEEN WOLF", TEEN WOLF T5|EP19
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/TNWLFT05EP19.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2i3ixgS" group-title="TEEN WOLF", TEEN WOLF T5|EP20
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/TNWLFT05EP20.mp4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/cn1EmZ" group-title="TEEN WOLF", TEEN WOLF T6|EP1 (LEG)
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/TNWLFS06EP01.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/cn1EmZ" group-title="TEEN WOLF", TEEN WOLF T6|EP2 (LEG)
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/TNWLFS06EP02.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/cn1EmZ" group-title="TEEN WOLF", TEEN WOLF T6|EP3 (LEG)
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/TNWLFS06EP03.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/cn1EmZ" group-title="TEEN WOLF", TEEN WOLF T6|EP4 (LEG)
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/TNWLFS06EP04.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/cn1EmZ" group-title="TEEN WOLF", TEEN WOLF T6|EP5 (LEG)
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/TNWLFS06EP05.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/cn1EmZ" group-title="TEEN WOLF", TEEN WOLF T6|EP6 (LEG)
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/TNWLFS06EP06.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/cn1EmZ" group-title="TEEN WOLF", TEEN WOLF T6|EP7 (LEG)
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/TNWLFS06EP07.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/cn1EmZ" group-title="TEEN WOLF", TEEN WOLF T6|EP8 (LEG)
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/TNWLFS06EP08.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/cn1EmZ" group-title="TEEN WOLF", TEEN WOLF T6|EP9 (LEG)
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/TNWLFS06EP09.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/cn1EmZ" group-title="TEEN WOLF", TEEN WOLF T6|EP10 (LEG)
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/TNWLFS06EP10.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/cn1EmZ" group-title="TEEN WOLF", TEEN WOLF T6|EP11 (LEG)
-http://zeus.netcine.tv/httpdelivery/teenwolf/06leg/11-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/cn1EmZ" group-title="TEEN WOLF", TEEN WOLF T6|EP12 (LEG)
-http://zeus.netcine.tv/httpdelivery/teenwolf/06leg/12-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/cn1EmZ" group-title="TEEN WOLF", TEEN WOLF T6|EP13 (LEG)
-http://zeus.netcine.tv/httpdelivery/teenwolf/06leg/13-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/cn1EmZ" group-title="TEEN WOLF", TEEN WOLF T6|EP14 (LEG)
-http://zeus.netcine.tv/httpdelivery/teenwolf/06leg/14-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/cn1EmZ" group-title="TEEN WOLF", TEEN WOLF T6|EP15 (LEG)
-http://zeus.netcine.tv/httpdelivery/teenwolf/06leg/15-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/cn1EmZ" group-title="TEEN WOLF", TEEN WOLF T6|EP16 (LEG)
-http://zeus.netcine.tv/httpdelivery/teenwolf/06leg/16-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/nsQH3c" group-title="TEEN WOLF", TEEN WOLF T6|EP17 (LEG)
-http://zeus.netcine.tv/httpdelivery/teenwolf/06leg/17-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/UJ7nh7" group-title="TEEN WOLF", TEEN WOLF T6|EP18 (LEG)
-http://zeus.netcine.tv/httpdelivery/teenwolf/06leg/18-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/rm7zCZ" group-title="TEEN WOLF", TEEN WOLF T6|EP19 (LEG)
-http://zeus.netcine.tv/httpdelivery/teenwolf/06leg/19-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/zkC5xG" group-title="TEEN WOLF", TEEN WOLF T6|EP20 (LEG - FIM DA SÉRIE)
-http://zeus.netcine.tv/httpdelivery/teenwolf/06leg/20-ALTO.mp4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/7n1PgM" group-title="SUPERGIRL", SPG T1|EP1
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/SPRGIRLT01EP01.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/7n1PgM" group-title="SUPERGIRL", SPG T1|EP2
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/SPRGIRLT01EP02.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/7n1PgM" group-title="SUPERGIRL", SPG T1|EP3
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/SPRGIRLT01EP03.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/7n1PgM" group-title="SUPERGIRL", SPG T1|EP4
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/SPRGIRLT01EP04.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/7n1PgM" group-title="SUPERGIRL", SPG T1|EP5
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/SPRGIRLT01EP05.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/7n1PgM" group-title="SUPERGIRL", SPG T1|EP6
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/SPRGIRLT01EP06.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/7n1PgM" group-title="SUPERGIRL", SPG T1|EP7
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/SPRGIRLT01EP07.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/7n1PgM" group-title="SUPERGIRL", SPG T1|EP8
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/SPRGIRLT01EP08.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/7n1PgM" group-title="SUPERGIRL", SPG T1|EP9
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/SPRGIRLT01EP09.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/7n1PgM" group-title="SUPERGIRL", SPG T1|EP10
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/SPRGIRLT01EP10.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/7n1PgM" group-title="SUPERGIRL", SPG T1|EP11
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/SPRGIRLT01EP11.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/7n1PgM" group-title="SUPERGIRL", SPG T1|EP12
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/SPRGIRLT01EP12.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/7n1PgM" group-title="SUPERGIRL", SPG T1|EP13
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/SPRGIRLT01EP13.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/7n1PgM" group-title="SUPERGIRL", SPG T1|EP14
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/SPRGIRLT01EP14.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/7n1PgM" group-title="SUPERGIRL", SPG T1|EP15
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/SPRGIRLT01EP15.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/7n1PgM" group-title="SUPERGIRL", SPG T1|EP16
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/SPRGIRLT01EP16.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/7n1PgM" group-title="SUPERGIRL", SPG T1|EP17
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/SPRGIRLT01EP17.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/7n1PgM" group-title="SUPERGIRL", SPG T1|EP18
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/SPRGIRLT01EP18.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/7n1PgM" group-title="SUPERGIRL", SPG T1|EP19
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/SPRGIRLT01EP19.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/7n1PgM" group-title="SUPERGIRL", SPG T1|EP20
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/SPRGIRLT01EP20.mp4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/7n1PgM" group-title="SUPERGIRL", SPG T2|EP1
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/SPRGIRLT02EP01.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/7n1PgM" group-title="SUPERGIRL", SPG T2|EP2
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/SPRGIRLT02EP02.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/7n1PgM" group-title="SUPERGIRL", SPG T2|EP3
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/SPRGIRLT02EP03.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/7n1PgM" group-title="SUPERGIRL", SPG T2|EP4
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/SPRGIRLT02EP04.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/7n1PgM" group-title="SUPERGIRL", SPG T2|EP5
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/SPRGIRLT02EP05.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/7n1PgM" group-title="SUPERGIRL", SPG T2|EP6
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/SPRGIRLT02EP06.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/7n1PgM" group-title="SUPERGIRL", SPG T2|EP7
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/SPRGIRLT02EP07.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/7n1PgM" group-title="SUPERGIRL", SPG T2|EP8
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/SPRGIRLT02EP08.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/7n1PgM" group-title="SUPERGIRL", SPG T2|EP9
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/SPRGIRLT02EP09.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/7n1PgM" group-title="SUPERGIRL", SPG T2|EP10
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/SPRGIRLT02EP10.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/7n1PgM" group-title="SUPERGIRL", SPG T2|EP11
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/SPRGIRLT02EP11.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/7n1PgM" group-title="SUPERGIRL", SPG T2|EP12
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/SPRGIRLT02EP12.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/7n1PgM" group-title="SUPERGIRL", SPG T2|EP13
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/SPRGIRLT02EP13.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/7n1PgM" group-title="SUPERGIRL", SPG T2|EP14
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/SPRGIRLT02EP14.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/7n1PgM" group-title="SUPERGIRL", SPG T2|EP15
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/SPRGIRLT02EP15.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/7n1PgM" group-title="SUPERGIRL", SPG T2|EP16
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/SPRGIRLT02EP16.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/7n1PgM" group-title="SUPERGIRL", SPG T2|EP17
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/SPRGIRLT02EP17.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/7n1PgM" group-title="SUPERGIRL", SPG T2|EP18
-http://cdnv3.ec.cx/RedeCanais/RCServer12/ondemand/SPRGIRLT02EP18.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/N4O7Ur" group-title="SUPERGIRL", SPG T2|EP19
-http://cdnv3.ec.cx/RedeCanais/RCServer12/ondemand/SPRGIRLT02EP19.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/N4O7Ur" group-title="SUPERGIRL", SPG T2|EP20
-http://cdnv3.ec.cx/RedeCanais/RCServer12/ondemand/SPRGIRLT02EP20.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/N4O7Ur" group-title="SUPERGIRL", SPG T2|EP21
-http://cdnv3.ec.cx/RedeCanais/RCServer12/ondemand/SPRGIRLT02EP21.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/N4O7Ur" group-title="SUPERGIRL", SPG T2|EP22
-http://cdnv3.ec.cx/RedeCanais/RCServer12/ondemand/SPRGIRLT02EP22.mp4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/5GdWjr" group-title="SUPERGIRL", SPG T3|EP1
-http://cdnv7.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/SPRGIRLT03EP01.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/5GdWjr" group-title="SUPERGIRL", SPG T3|EP2
-http://cdnv7.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/SPRGIRLT03EP02.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/5GdWjr" group-title="SUPERGIRL", SPG T3|EP3
-http://cdnv7.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/SPRGIRLT03EP03.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/5GdWjr" group-title="SUPERGIRL", SPG T3|EP4
-http://cdnv7.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/SPRGIRLT03EP04.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/5GdWjr" group-title="SUPERGIRL", SPG T3|EP5
-http://cdnv7.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/SPRGIRLT03EP05.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/5GdWjr" group-title="SUPERGIRL", SPG T3|EP6
-http://cdnv7.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/SPRGIRLT03EP06.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/5GdWjr" group-title="SUPERGIRL", SPG T3|EP7
-http://cdnv7.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/SPRGIRLT03EP07.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/5GdWjr" group-title="SUPERGIRL", SPG T3|EP8 CROSSOVER PARTE 1
-http://zeus.netcine.tv/httpdelivery/supergirl/03dub/08-ALTO.mp4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/HjA5qr" group-title="SUPERGIRL", SPG T3|EP1 (LEG)
-http://zeus.netcine.tv/httpdelivery/supergirl/03leg/01-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/sPw3ey" group-title="SUPERGIRL", SPG T3|EP2 (LEG)
-http://zeus.netcine.tv/httpdelivery/supergirl/03leg/002-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/qiDTxa" group-title="SUPERGIRL", SPG T3|EP3 (LEG)
-http://zeus.netcine.tv/httpdelivery/supergirl/03leg/03-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/GDyNXZ" group-title="SUPERGIRL", SPG T3|EP4 (LEG)
-http://zeus.netcine.tv/httpdelivery/supergirl/03leg/04-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/GGF3a9" group-title="SUPERGIRL", SPG T3|EP5 (LEG)
-http://zeus.netcine.tv/httpdelivery/supergirl/03leg/05-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/5GdWjr" group-title="SUPERGIRL", SPG T3|EP6 (LEG)
-http://zeus.netcine.tv/httpdelivery/supergirl/03leg/06-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/5GdWjr" group-title="SUPERGIRL", SPG T3|EP7 (LEG)
-http://zeus.netcine.tv/httpdelivery/supergirl/03leg/07-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/5GdWjr" group-title="SUPERGIRL", SPG T3|EP8 (LEG)
-http://zeus.netcine.tv/httpdelivery/supergirl/03leg/08-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/5GdWjr" group-title="SUPERGIRL", SPG T3|EP9 (LEG)
-http://zeus.netcine.tv/httpdelivery/supergirl/03leg/09-ALTO.mp4
+#EXTINF:0 tvg-logo="http://i.imgur.com/Yg9Yw6R.jpg" group-title="DEMOLIDOR" , 01 - EPISODIO 01
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/DMLDRT01EP01.mp4
+#EXTINF:0 tvg-logo="http://i.imgur.com/Yg9Yw6R.jpg" group-title="DEMOLIDOR" , 01 - EPISODIO 02
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/DMLDRT01EP02.mp4
+#EXTINF:0 tvg-logo="http://i.imgur.com/Yg9Yw6R.jpg" group-title="DEMOLIDOR" , 01 - EPISODIO 03
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/DMLDRT01EP03.mp4
+#EXTINF:0 tvg-logo="http://i.imgur.com/Yg9Yw6R.jpg" group-title="DEMOLIDOR" , 01 - EPISODIO 04
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/DMLDRT01EP04.mp4
+#EXTINF:0 tvg-logo="http://i.imgur.com/Yg9Yw6R.jpg" group-title="DEMOLIDOR" , 01 - EPISODIO 05
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/DMLDRT01EP05.mp4
+#EXTINF:0 tvg-logo="http://i.imgur.com/Yg9Yw6R.jpg" group-title="DEMOLIDOR" , 01 - EPISODIO 06
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/DMLDRT01EP06.mp4
+#EXTINF:0 tvg-logo="http://i.imgur.com/Yg9Yw6R.jpg" group-title="DEMOLIDOR" , 01 - EPISODIO 07
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/DMLDRT01EP07.mp4
+#EXTINF:0 tvg-logo="http://i.imgur.com/Yg9Yw6R.jpg" group-title="DEMOLIDOR" , 01 - EPISODIO 08
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/DMLDRT01EP08.mp4
+#EXTINF:0 tvg-logo="http://i.imgur.com/Yg9Yw6R.jpg" group-title="DEMOLIDOR" , 01 - EPISODIO 09
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/DMLDRT01EP09.mp4
+#EXTINF:0 tvg-logo="http://i.imgur.com/Yg9Yw6R.jpg" group-title="DEMOLIDOR" , 01 - EPISODIO 10
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/DMLDRT01EP10.mp4
+#EXTINF:0 tvg-logo="http://i.imgur.com/Yg9Yw6R.jpg" group-title="DEMOLIDOR" , 01 - EPISODIO 11
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/DMLDRT01EP11.mp4
+#EXTINF:0 tvg-logo="http://i.imgur.com/Yg9Yw6R.jpg" group-title="DEMOLIDOR" , 01 - EPISODIO 12
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/DMLDRT01EP12.mp4
+#EXTINF:0 tvg-logo="http://i.imgur.com/Yg9Yw6R.jpg" group-title="DEMOLIDOR" , 01 - EPISODIO 13
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/DMLDRT01EP13.mp4
+#EXTINF:0 tvg-logo="http://i.imgur.com/Yg9Yw6R.jpg" group-title="DEMOLIDOR" , 02 - EPISODIO 01
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/DMLDRT02EP01.mp4
+#EXTINF:0 tvg-logo="http://i.imgur.com/Yg9Yw6R.jpg" group-title="DEMOLIDOR" , 02 - EPISODIO 02
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/DMLDRT02EP02.mp4
+#EXTINF:0 tvg-logo="http://i.imgur.com/Yg9Yw6R.jpg" group-title="DEMOLIDOR" , 02 - EPISODIO 03
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/DMLDRT02EP03.mp4
+#EXTINF:0 tvg-logo="http://i.imgur.com/Yg9Yw6R.jpg" group-title="DEMOLIDOR" , 02 - EPISODIO 04
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/DMLDRT02EP04.mp4
+#EXTINF:0 tvg-logo="http://i.imgur.com/Yg9Yw6R.jpg" group-title="DEMOLIDOR" , 02 - EPISODIO 05
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/DMLDRT02EP05.mp4
+#EXTINF:0 tvg-logo="http://i.imgur.com/Yg9Yw6R.jpg" group-title="DEMOLIDOR" , 02 - EPISODIO 06
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/DMLDRT02EP06.mp4
+#EXTINF:0 tvg-logo="http://i.imgur.com/Yg9Yw6R.jpg" group-title="DEMOLIDOR" , 02 - EPISODIO 07
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/DMLDRT02EP07.mp4
+#EXTINF:0 tvg-logo="http://i.imgur.com/Yg9Yw6R.jpg" group-title="DEMOLIDOR" , 02 - EPISODIO 08
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/DMLDRT02EP08.mp4
+#EXTINF:0 tvg-logo="http://i.imgur.com/Yg9Yw6R.jpg" group-title="DEMOLIDOR" , 02 - EPISODIO 09
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/DMLDRT02EP09.mp4
+#EXTINF:0 tvg-logo="http://i.imgur.com/Yg9Yw6R.jpg" group-title="DEMOLIDOR" , 02 - EPISODIO 10
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/DMLDRT02EP10.mp4
+#EXTINF:0 tvg-logo="http://i.imgur.com/Yg9Yw6R.jpg" group-title="DEMOLIDOR" , 02 - EPISODIO 11
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/DMLDRT02EP11.mp4
+#EXTINF:0 tvg-logo="http://i.imgur.com/Yg9Yw6R.jpg" group-title="DEMOLIDOR" , 02 - EPISODIO 12
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/DMLDRT02EP12.mp4
+#EXTINF:0 tvg-logo="http://i.imgur.com/Yg9Yw6R.jpg" group-title="DEMOLIDOR" , 02 - EPISODIO 13
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/DMLDRT02EP13.mp4
 
 #EXTINF:-1 tvg-logo="https://goo.gl/kia9g6" group-title="MR. ROBOT", MRBT T1|EP1
 http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/MROBT01EP01.mp4
@@ -1192,677 +917,7 @@ http://origin.ntcdn.us/content/httpdelivery/gotham/04leg/10-ALTO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/A5idzG" group-title="GOTHAM", GOTHAM T4|EP11 (LEG)
 http://origin.ntcdn.us/content/httpdelivery/gotham/04leg/11-ALTO.mp4
 
-#EXTINF:-1 tvg-logo="https://goo.gl/JWzV9j" group-title="1° TEMPORADA", ARW T1|EP1
-http://origin.ntcdn.us/sobdemanda/netcine-bucket/arrow/01dub/01-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/JWzV9j" group-title="1° TEMPORADA", ARW T1|EP2
-http://origin.ntcdn.us/sobdemanda/netcine-bucket/arrow/01dub/02-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/JWzV9j" group-title="1° TEMPORADA", ARW T1|EP3
-http://origin.ntcdn.us/sobdemanda/netcine-bucket/arrow/01dub/03-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/JWzV9j" group-title="1° TEMPORADA", ARW T1|EP4
-http://origin.ntcdn.us/sobdemanda/netcine-bucket/arrow/01dub/04-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/JWzV9j" group-title="1° TEMPORADA", ARW T1|EP5
-http://origin.ntcdn.us/sobdemanda/netcine-bucket/arrow/01dub/05-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/JWzV9j" group-title="1° TEMPORADA", ARW T1|EP6
-http://origin.ntcdn.us/sobdemanda/netcine-bucket/arrow/01dub/06-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/JWzV9j" group-title="1° TEMPORADA", ARW T1|EP7
-http://origin.ntcdn.us/sobdemanda/netcine-bucket/arrow/01dub/07-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/JWzV9j" group-title="1° TEMPORADA", ARW T1|EP8
-http://origin.ntcdn.us/sobdemanda/netcine-bucket/arrow/01dub/08-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/JWzV9j" group-title="1° TEMPORADA", ARW T1|EP9
-http://origin.ntcdn.us/sobdemanda/netcine-bucket/arrow/01dub/09-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/JWzV9j" group-title="1° TEMPORADA", ARW T1|EP10
-http://origin.ntcdn.us/sobdemanda/netcine-bucket/arrow/01dub/10-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/JWzV9j" group-title="1° TEMPORADA", ARW T1|EP11
-http://origin.ntcdn.us/sobdemanda/netcine-bucket/arrow/01dub/11-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/JWzV9j" group-title="1° TEMPORADA", ARW T1|EP12
-http://origin.ntcdn.us/sobdemanda/netcine-bucket/arrow/01dub/12-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/JWzV9j" group-title="1° TEMPORADA", ARW T1|EP13
-http://origin.ntcdn.us/sobdemanda/netcine-bucket/arrow/01dub/13-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/JWzV9j" group-title="1° TEMPORADA", ARW T1|EP14
-http://origin.ntcdn.us/sobdemanda/netcine-bucket/arrow/01dub/14-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/JWzV9j" group-title="1° TEMPORADA", ARW T1|EP15
-http://origin.ntcdn.us/sobdemanda/netcine-bucket/arrow/01dub/15-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/JWzV9j" group-title="1° TEMPORADA", ARW T1|EP16
-http://origin.ntcdn.us/sobdemanda/netcine-bucket/arrow/01dub/16-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/JWzV9j" group-title="1° TEMPORADA", ARW T1|EP17
-http://origin.ntcdn.us/sobdemanda/netcine-bucket/arrow/01dub/17-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/JWzV9j" group-title="1° TEMPORADA", ARW T1|EP18
-http://origin.ntcdn.us/sobdemanda/netcine-bucket/arrow/01dub/18-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/JWzV9j" group-title="1° TEMPORADA", ARW T1|EP19
-http://origin.ntcdn.us/sobdemanda/netcine-bucket/arrow/01dub/19-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/JWzV9j" group-title="1° TEMPORADA", ARW T1|EP20
-http://origin.ntcdn.us/sobdemanda/netcine-bucket/arrow/01dub/20-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/JWzV9j" group-title="1° TEMPORADA", ARW T1|EP21
-http://origin.ntcdn.us/sobdemanda/netcine-bucket/arrow/01dub/21-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/JWzV9j" group-title="1° TEMPORADA", ARW T1|EP22
-http://origin.ntcdn.us/sobdemanda/netcine-bucket/arrow/01dub/22-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/JWzV9j" group-title="1° TEMPORADA", ARW T1|EP23
-http://origin.ntcdn.us/sobdemanda/netcine-bucket/arrow/01dub/23-BAIXO.mp4
 
-#EXTINF:-1 tvg-logo="https://goo.gl/JWzV9j" group-title="2° TEMPORADA", ARW T2|EP1
-http://origin.ntcdn.us/sobdemanda/netcine-bucket/arrow/02dub/01-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/JWzV9j" group-title="2° TEMPORADA", ARW T2|EP2
-http://origin.ntcdn.us/sobdemanda/netcine-bucket/arrow/02dub/02-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/JWzV9j" group-title="2° TEMPORADA", ARW T2|EP3
-http://origin.ntcdn.us/sobdemanda/netcine-bucket/arrow/02dub/03-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/JWzV9j" group-title="2° TEMPORADA", ARW T2|EP4
-http://origin.ntcdn.us/sobdemanda/netcine-bucket/arrow/02dub/04-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/JWzV9j" group-title="2° TEMPORADA", ARW T2|EP5
-http://origin.ntcdn.us/sobdemanda/netcine-bucket/arrow/02dub/05-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/JWzV9j" group-title="2° TEMPORADA", ARW T2|EP6
-http://origin.ntcdn.us/sobdemanda/netcine-bucket/arrow/02dub/06-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/JWzV9j" group-title="2° TEMPORADA", ARW T2|EP7
-http://origin.ntcdn.us/sobdemanda/netcine-bucket/arrow/02dub/07-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/JWzV9j" group-title="2° TEMPORADA", ARW T2|EP8
-http://origin.ntcdn.us/sobdemanda/netcine-bucket/arrow/02dub/08-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/JWzV9j" group-title="2° TEMPORADA", ARW T2|EP9
-http://origin.ntcdn.us/sobdemanda/netcine-bucket/arrow/02dub/09-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/JWzV9j" group-title="2° TEMPORADA", ARW T2|EP10
-http://origin.ntcdn.us/sobdemanda/netcine-bucket/arrow/02dub/10-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/JWzV9j" group-title="2° TEMPORADA", ARW T2|EP11
-http://origin.ntcdn.us/sobdemanda/netcine-bucket/arrow/02dub/11-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/JWzV9j" group-title="2° TEMPORADA", ARW T2|EP12
-http://origin.ntcdn.us/sobdemanda/netcine-bucket/arrow/02dub/12-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/JWzV9j" group-title="2° TEMPORADA", ARW T2|EP13
-http://origin.ntcdn.us/sobdemanda/netcine-bucket/arrow/02dub/13-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/JWzV9j" group-title="2° TEMPORADA", ARW T2|EP14
-http://origin.ntcdn.us/sobdemanda/netcine-bucket/arrow/02dub/14-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/JWzV9j" group-title="2° TEMPORADA", ARW T2|EP15
-http://origin.ntcdn.us/sobdemanda/netcine-bucket/arrow/02dub/15-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/JWzV9j" group-title="2° TEMPORADA", ARW T2|EP16
-http://origin.ntcdn.us/sobdemanda/netcine-bucket/arrow/02dub/16-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/JWzV9j" group-title="2° TEMPORADA", ARW T2|EP17
-http://origin.ntcdn.us/sobdemanda/netcine-bucket/arrow/02dub/17-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/JWzV9j" group-title="2° TEMPORADA", ARW T2|EP18
-http://origin.ntcdn.us/sobdemanda/netcine-bucket/arrow/02dub/18-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/JWzV9j" group-title="2° TEMPORADA", ARW T2|EP19
-http://origin.ntcdn.us/sobdemanda/netcine-bucket/arrow/02dub/19-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/JWzV9j" group-title="2° TEMPORADA", ARW T2|EP20
-http://origin.ntcdn.us/sobdemanda/netcine-bucket/arrow/02dub/20-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/JWzV9j" group-title="2° TEMPORADA", ARW T2|EP21
-http://origin.ntcdn.us/sobdemanda/netcine-bucket/arrow/02dub/21-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/JWzV9j" group-title="2° TEMPORADA", ARW T2|EP22
-http://origin.ntcdn.us/sobdemanda/netcine-bucket/arrow/02dub/22-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/JWzV9j" group-title="2° TEMPORADA", ARW T2|EP23
-http://origin.ntcdn.us/sobdemanda/netcine-bucket/arrow/02dub/23-BAIXO.mp4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/JWzV9j" group-title="3° TEMPORADA", ARW T3|EP1
-http://origin.ntcdn.us/sobdemanda/netcine-bucket/arrow/03dub/01-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/JWzV9j" group-title="3° TEMPORADA", ARW T3|EP2
-http://origin.ntcdn.us/sobdemanda/netcine-bucket/arrow/03dub/02-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/JWzV9j" group-title="3° TEMPORADA", ARW T3|EP3
-http://origin.ntcdn.us/sobdemanda/netcine-bucket/arrow/03dub/03-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/JWzV9j" group-title="3° TEMPORADA", ARW T3|EP4
-http://origin.ntcdn.us/sobdemanda/netcine-bucket/arrow/03dub/04-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/JWzV9j" group-title="3° TEMPORADA", ARW T3|EP5
-http://origin.ntcdn.us/sobdemanda/netcine-bucket/arrow/03dub/05-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/JWzV9j" group-title="3° TEMPORADA", ARW T3|EP6
-http://origin.ntcdn.us/sobdemanda/netcine-bucket/arrow/03dub/06-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/JWzV9j" group-title="3° TEMPORADA", ARW T3|EP7
-http://origin.ntcdn.us/sobdemanda/netcine-bucket/arrow/03dub/07-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/JWzV9j" group-title="3° TEMPORADA", ARW T3|EP8
-http://origin.ntcdn.us/sobdemanda/netcine-bucket/arrow/03dub/08-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/JWzV9j" group-title="3° TEMPORADA", ARW T3|EP9
-http://origin.ntcdn.us/sobdemanda/netcine-bucket/arrow/03dub/09-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/JWzV9j" group-title="3° TEMPORADA", ARW T3|EP10
-http://origin.ntcdn.us/sobdemanda/netcine-bucket/arrow/03dub/10-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/JWzV9j" group-title="3° TEMPORADA", ARW T3|EP11
-http://origin.ntcdn.us/sobdemanda/netcine-bucket/arrow/03dub/11-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/JWzV9j" group-title="3° TEMPORADA", ARW T3|EP12
-http://origin.ntcdn.us/sobdemanda/netcine-bucket/arrow/03dub/12-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/JWzV9j" group-title="3° TEMPORADA", ARW T3|EP13
-http://origin.ntcdn.us/sobdemanda/netcine-bucket/arrow/03dub/13-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/JWzV9j" group-title="3° TEMPORADA", ARW T3|EP14
-http://origin.ntcdn.us/sobdemanda/netcine-bucket/arrow/03dub/14-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/JWzV9j" group-title="3° TEMPORADA", ARW T3|EP15
-http://origin.ntcdn.us/sobdemanda/netcine-bucket/arrow/03dub/15-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/JWzV9j" group-title="3° TEMPORADA", ARW T3|EP16
-http://origin.ntcdn.us/sobdemanda/netcine-bucket/arrow/03dub/16-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/JWzV9j" group-title="3° TEMPORADA", ARW T3|EP17
-http://origin.ntcdn.us/sobdemanda/netcine-bucket/arrow/03dub/17-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/JWzV9j" group-title="3° TEMPORADA", ARW T3|EP18
-http://origin.ntcdn.us/sobdemanda/netcine-bucket/arrow/03dub/18-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/JWzV9j" group-title="3° TEMPORADA", ARW T3|EP19
-http://origin.ntcdn.us/sobdemanda/netcine-bucket/arrow/03dub/19-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/JWzV9j" group-title="3° TEMPORADA", ARW T3|EP20
-http://origin.ntcdn.us/sobdemanda/netcine-bucket/arrow/03dub/20-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/JWzV9j" group-title="3° TEMPORADA", ARW T3|EP21
-http://origin.ntcdn.us/sobdemanda/netcine-bucket/arrow/03dub/21-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/JWzV9j" group-title="3° TEMPORADA", ARW T3|EP22
-http://origin.ntcdn.us/sobdemanda/netcine-bucket/arrow/03dub/22-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/JWzV9j" group-title="3° TEMPORADA", ARW T3|EP23
-http://origin.ntcdn.us/sobdemanda/netcine-bucket/arrow/03dub/23-BAIXO.mp4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/JWzV9j" group-title="4° TEMPORADA", ARW T4|EP1
-http://origin.ntcdn.us/sobdemanda/netcine-bucket/arrow/04dub/01-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/JWzV9j" group-title="4° TEMPORADA", ARW T4|EP2
-http://origin.ntcdn.us/sobdemanda/netcine-bucket/arrow/04dub/02-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/JWzV9j" group-title="4° TEMPORADA", ARW T4|EP3
-http://origin.ntcdn.us/sobdemanda/netcine-bucket/arrow/04dub/03-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/JWzV9j" group-title="4° TEMPORADA", ARW T4|EP4
-http://origin.ntcdn.us/sobdemanda/netcine-bucket/arrow/04dub/04-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/JWzV9j" group-title="4° TEMPORADA", ARW T4|EP5
-http://origin.ntcdn.us/sobdemanda/netcine-bucket/arrow/04dub/05-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/JWzV9j" group-title="4° TEMPORADA", ARW T4|EP6
-http://origin.ntcdn.us/sobdemanda/netcine-bucket/arrow/04dub/06-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/JWzV9j" group-title="4° TEMPORADA", ARW T4|EP7
-http://origin.ntcdn.us/sobdemanda/netcine-bucket/arrow/04dub/07-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/JWzV9j" group-title="4° TEMPORADA", ARW T4|EP8
-http://origin.ntcdn.us/sobdemanda/netcine-bucket/arrow/04dub/08-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/JWzV9j" group-title="4° TEMPORADA", ARW T4|EP9
-http://origin.ntcdn.us/sobdemanda/netcine-bucket/arrow/04dub/09-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/JWzV9j" group-title="4° TEMPORADA", ARW T4|EP10
-http://origin.ntcdn.us/sobdemanda/netcine-bucket/arrow/04dub/10-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/JWzV9j" group-title="4° TEMPORADA", ARW T4|EP11
-http://origin.ntcdn.us/sobdemanda/netcine-bucket/arrow/04dub/11-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/JWzV9j" group-title="4° TEMPORADA", ARW T4|EP12
-http://origin.ntcdn.us/sobdemanda/netcine-bucket/arrow/04dub/12-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/JWzV9j" group-title="4° TEMPORADA", ARW T4|EP13
-http://origin.ntcdn.us/sobdemanda/netcine-bucket/arrow/04dub/13-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/JWzV9j" group-title="4° TEMPORADA", ARW T4|EP14
-http://origin.ntcdn.us/sobdemanda/netcine-bucket/arrow/04dub/14-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/JWzV9j" group-title="4° TEMPORADA", ARW T4|EP15
-http://origin.ntcdn.us/sobdemanda/netcine-bucket/arrow/04dub/15-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/JWzV9j" group-title="4° TEMPORADA", ARW T4|EP16
-http://origin.ntcdn.us/sobdemanda/netcine-bucket/arrow/04dub/16-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/JWzV9j" group-title="4° TEMPORADA", ARW T4|EP17
-http://origin.ntcdn.us/sobdemanda/netcine-bucket/arrow/04dub/17-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/JWzV9j" group-title="4° TEMPORADA", ARW T4|EP18
-http://origin.ntcdn.us/sobdemanda/netcine-bucket/arrow/04dub/18-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/JWzV9j" group-title="4° TEMPORADA", ARW T4|EP19
-http://origin.ntcdn.us/sobdemanda/netcine-bucket/arrow/04dub/19-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/JWzV9j" group-title="4° TEMPORADA", ARW T4|EP20
-http://origin.ntcdn.us/sobdemanda/netcine-bucket/arrow/04dub/20-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/JWzV9j" group-title="4° TEMPORADA", ARW T4|EP21
-http://origin.ntcdn.us/sobdemanda/netcine-bucket/arrow/04dub/21-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/JWzV9j" group-title="4° TEMPORADA", ARW T4|EP22
-http://origin.ntcdn.us/sobdemanda/netcine-bucket/arrow/04dub/22-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/JWzV9j" group-title="4° TEMPORADA", ARW T4|EP23
-http://origin.ntcdn.us/sobdemanda/netcine-bucket/arrow/04dub/23-BAIXO.mp4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/JWzV9j" group-title="5° TEMPORADA", ARW T5|EP1
-http://origin.ntcdn.us/sobdemanda/netcine-bucket/arrow/05dub/01-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/JWzV9j" group-title="5° TEMPORADA", ARW T5|EP2
-http://origin.ntcdn.us/sobdemanda/netcine-bucket/arrow/05dub/02-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/JWzV9j" group-title="5° TEMPORADA", ARW T5|EP3
-http://origin.ntcdn.us/sobdemanda/netcine-bucket/arrow/05dub/03-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/JWzV9j" group-title="5° TEMPORADA", ARW T5|EP4
-http://origin.ntcdn.us/sobdemanda/netcine-bucket/arrow/05dub/04-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/JWzV9j" group-title="5° TEMPORADA", ARW T5|EP5
-http://origin.ntcdn.us/sobdemanda/netcine-bucket/arrow/05dub/05-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/JWzV9j" group-title="5° TEMPORADA", ARW T5|EP6
-http://origin.ntcdn.us/sobdemanda/netcine-bucket/arrow/05dub/06-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/JWzV9j" group-title="5° TEMPORADA", ARW T5|EP7
-http://origin.ntcdn.us/sobdemanda/netcine-bucket/arrow/05dub/07-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/JWzV9j" group-title="5° TEMPORADA", ARW T5|EP8
-http://origin.ntcdn.us/sobdemanda/netcine-bucket/arrow/05dub/08-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/JWzV9j" group-title="5° TEMPORADA", ARW T5|EP9
-http://origin.ntcdn.us/sobdemanda/netcine-bucket/arrow/05dub/09-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/JWzV9j" group-title="5° TEMPORADA", ARW T5|EP10
-http://origin.ntcdn.us/sobdemanda/netcine-bucket/arrow/05dub/10-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/JWzV9j" group-title="5° TEMPORADA", ARW T5|EP11
-http://origin.ntcdn.us/sobdemanda/netcine-bucket/arrow/05dub/11-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/JWzV9j" group-title="5° TEMPORADA", ARW T5|EP12
-http://origin.ntcdn.us/sobdemanda/netcine-bucket/arrow/05dub/12-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/JWzV9j" group-title="5° TEMPORADA", ARW T5|EP13
-http://origin.ntcdn.us/sobdemanda/netcine-bucket/arrow/05dub/13-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/JWzV9j" group-title="5° TEMPORADA", ARW T5|EP14
-http://origin.ntcdn.us/sobdemanda/netcine-bucket/arrow/05dub/14-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/JWzV9j" group-title="5° TEMPORADA", ARW T5|EP15
-http://origin.ntcdn.us/sobdemanda/netcine-bucket/arrow/05dub/15-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/JWzV9j" group-title="5° TEMPORADA", ARW T5|EP16
-http://origin.ntcdn.us/sobdemanda/netcine-bucket/arrow/05dub/16-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/JWzV9j" group-title="5° TEMPORADA", ARW T5|EP17
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/ARROWT05EP17.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/JWzV9j" group-title="5° TEMPORADA", ARW T5|EP18
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/ARROWT05EP18.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/JWzV9j" group-title="5° TEMPORADA", ARW T5|EP19
-http://cdnv12.ec.cx/RedeCanais/RCServer12/ondemand/ARROWT05EP19.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/JWzV9j" group-title="5° TEMPORADA", ARW T5|EP20 
-http://cdnv12.ec.cx/RedeCanais/RCServer12/ondemand/ARROWT05EP20.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/JWzV9j" group-title="5° TEMPORADA", ARW T5|EP21 
-http://cdnv12.ec.cx/RedeCanais/RCServer12/ondemand/ARROWT05EP21.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/JWzV9j" group-title="5° TEMPORADA", ARW T5|EP22
-http://cdnv12.ec.cx/RedeCanais/RCServer12/ondemand/ARROWT05EP22.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/JWzV9j" group-title="5° TEMPORADA", ARW T5|EP23
-http://cdnv12.ec.cx/RedeCanais/RCServer12/ondemand/ARROWT05EP23.mp4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/92ETDV" group-title="6° TEMPORADA", ARW T6|EP1
-http://origin.ntcdn.us/httpdelivery/arrow/06dub/01-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/88U4T3" group-title="6° TEMPORADA", ARW T6|EP2
-http://origin.ntcdn.us/httpdelivery/arrow/06dub/02-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/VefJQd" group-title="6° TEMPORADA", ARW T6|EP3
-http://origin.ntcdn.us/httpdelivery/arrow/06dub/03-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/2uDJ2f" group-title="6° TEMPORADA", ARW T6|EP4
-http://origin.ntcdn.us/httpdelivery/arrow/06dub/04-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/2uDJ2f" group-title="6° TEMPORADA", ARW T6|EP5
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/ARROWT06EP05.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/2uDJ2f" group-title="6° TEMPORADA", ARW T6|EP6
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/ARROWT06EP06.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/2uDJ2f" group-title="6° TEMPORADA", ARW T6|EP7
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/ARROWT06EP07.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/2uDJ2f" group-title="6° TEMPORADA", ARW T6|EP8
-http://origin.ntcdn.us/httpdelivery/arrow/06dub/08-BAIXO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/2uDJ2f" group-title="ARROW", ARW T6|EP9
-http://origin.ntcdn.us/content/httpdelivery/arrow/06dub/09-BAIXO.mp4
-
-
-
-#EXTINF:-1 tvg-logo="https://goo.gl/FrkBXV" group-title="IZOMBIE", IZBE T1|EP1
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/IZOMBIET01EP01.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/FrkBXV" group-title="IZOMBIE", IZBE T1|EP2
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/IZOMBIET01EP02.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/FrkBXV" group-title="IZOMBIE", IZBE T1|EP3
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/IZOMBIET01EP03.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/FrkBXV" group-title="IZOMBIE", IZBE T1|EP4
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/IZOMBIET01EP04.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/FrkBXV" group-title="IZOMBIE", IZBE T1|EP5
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/IZOMBIET01EP05.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/FrkBXV" group-title="IZOMBIE", IZBE T1|EP6
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/IZOMBIET01EP06.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/FrkBXV" group-title="IZOMBIE", IZBE T1|EP7
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/IZOMBIET01EP07.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/FrkBXV" group-title="IZOMBIE", IZBE T1|EP8
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/IZOMBIET01EP08.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/FrkBXV" group-title="IZOMBIE", IZBE T1|EP9
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/IZOMBIET01EP09.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/FrkBXV" group-title="IZOMBIE", IZBE T1|EP10
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/IZOMBIET01EP10.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/FrkBXV" group-title="IZOMBIE", IZBE T1|EP11
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/IZOMBIET01EP11.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/FrkBXV" group-title="IZOMBIE", IZBE T1|EP12
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/IZOMBIET01EP12.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/FrkBXV" group-title="IZOMBIE", IZBE T1|EP13
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/IZOMBIET01EP13.mp4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/FrkBXV" group-title="IZOMBIE", IZBE T2|EP1
-http://cdnv3.ec.cx/RedeCanais/RCServer12/ondemand/IZOMBIET02EP01.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/FrkBXV" group-title="IZOMBIE", IZBE T2|EP2 
-http://cdnv3.ec.cx/RedeCanais/RCServer12/ondemand/IZOMBIET02EP02.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/FrkBXV" group-title="IZOMBIE", IZBE T2|EP3 
-http://cdnv3.ec.cx/RedeCanais/RCServer12/ondemand/IZOMBIET02EP03.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/FrkBXV" group-title="IZOMBIE", IZBE T2|EP4 
-http://cdnv3.ec.cx/RedeCanais/RCServer12/ondemand/IZOMBIET02EP04.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/FrkBXV" group-title="IZOMBIE", IZBE T2|EP5
-http://cdnv3.ec.cx/RedeCanais/RCServer12/ondemand/IZOMBIET02EP05.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/FrkBXV" group-title="IZOMBIE", IZBE T2|EP6
-http://cdnv3.ec.cx/RedeCanais/RCServer12/ondemand/IZOMBIET02EP06.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/FrkBXV" group-title="IZOMBIE", IZBE T2|EP7
-http://cdnv3.ec.cx/RedeCanais/RCServer12/ondemand/IZOMBIET02EP07.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/FrkBXV" group-title="IZOMBIE", IZBE T2|EP8
-http://cdnv3.ec.cx/RedeCanais/RCServer12/ondemand/IZOMBIET02EP08.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/FrkBXV" group-title="IZOMBIE", IZBE T2|EP9
-http://cdnv3.ec.cx/RedeCanais/RCServer12/ondemand/IZOMBIET02EP09.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/FrkBXV" group-title="IZOMBIE", IZBE T2|EP10
-http://cdnv3.ec.cx/RedeCanais/RCServer12/ondemand/IZOMBIET02EP10.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/FrkBXV" group-title="IZOMBIE", IZBE T2|EP11
-http://cdnv3.ec.cx/RedeCanais/RCServer12/ondemand/IZOMBIET02EP11.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/FrkBXV" group-title="IZOMBIE", IZBE T2|EP12
-http://cdnv3.ec.cx/RedeCanais/RCServer12/ondemand/IZOMBIET02EP12.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/FrkBXV" group-title="IZOMBIE", IZBE T2|EP13
-http://cdnv3.ec.cx/RedeCanais/RCServer12/ondemand/IZOMBIET02EP13.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/FrkBXV" group-title="IZOMBIE", IZBE T2|EP14 
-http://cdnv3.ec.cx/RedeCanais/RCServer12/ondemand/IZOMBIET02EP14.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/FrkBXV" group-title="IZOMBIE", IZBE T2|EP15
-http://cdnv3.ec.cx/RedeCanais/RCServer12/ondemand/IZOMBIET02EP15.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/FrkBXV" group-title="IZOMBIE", IZBE T2|EP16
-http://cdnv3.ec.cx/RedeCanais/RCServer12/ondemand/IZOMBIET02EP16.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/FrkBXV" group-title="IZOMBIE", IZBE T2|EP17 
-http://cdnv3.ec.cx/RedeCanais/RCServer12/ondemand/IZOMBIET02EP17.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/FrkBXV" group-title="IZOMBIE", IZBE T2|EP18
-http://cdnv3.ec.cx/RedeCanais/RCServer12/ondemand/IZOMBIET02EP18.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/FrkBXV" group-title="IZOMBIE", IZBE T2|EP19
-http://cdnv3.ec.cx/RedeCanais/RCServer12/ondemand/IZOMBIET02EP19.mp4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/FrkBXV" group-title="IZOMBIE", IZBE T3|EP1 (LEG)
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/IZOMBIES03EP01.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/FrkBXV" group-title="IZOMBIE", IZBE T3|EP2 (LEG)
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/IZOMBIES03EP02.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/FrkBXV" group-title="IZOMBIE", IZBE T3|EP3 (LEG)
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/IZOMBIES03EP03.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/FrkBXV" group-title="IZOMBIE", IZBE T3|EP4 (LEG)
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/IZOMBIES03EP04.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/FrkBXV" group-title="IZOMBIE", IZBE T3|EP5 (LEG)
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/IZOMBIES03EP05.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/FrkBXV" group-title="IZOMBIE", IZBE T3|EP6 (LEG)
-http://zeus.netcine.tv/httpdelivery/izombie/03leg/06-ALTO.mp4?RODRIGOU-IPTV
-#EXTINF:-1 tvg-logo="https://goo.gl/FrkBXV" group-title="IZOMBIE", IZBE T3|EP7 (LEG)
-http://zeus.netcine.tv/httpdelivery/izombie/03leg/07-ALTO.mp4?RODRIGOU-IPTV
-#EXTINF:-1 tvg-logo="https://goo.gl/FrkBXV" group-title="IZOMBIE", IZBE T3|EP8 (LEG)
-http://zeus.netcine.tv/httpdelivery/izombie/03leg/08-ALTO.mp4?RODRIGOU-IPTV
-#EXTINF:-1 tvg-logo="https://goo.gl/FrkBXV" group-title="IZOMBIE", IZBE T3|EP9 (LEG)
-http://zeus.netcine.tv/httpdelivery/izombie/03leg/09-ALTO.mp4?RODRIGOU-IPTV
-#EXTINF:-1 tvg-logo="https://goo.gl/FrkBXV" group-title="IZOMBIE", IZBE T3|EP10 (LEG)
-http://zeus.netcine.tv/httpdelivery/izombie/03leg/10-ALTO.mp4?RODRIGOU-IPTV
-#EXTINF:-1 tvg-logo="https://goo.gl/FrkBXV" group-title="IZOMBIE", IZBE T3|EP11 (LEG)
-http://zeus.netcine.tv/httpdelivery/izombie/03leg/11-ALTO.mp4?RODRIGOU-IPTV
-#EXTINF:-1 tvg-logo="https://goo.gl/FrkBXV" group-title="IZOMBIE", IZBE T3|EP12 (LEG)
-http://zeus.netcine.tv/httpdelivery/izombie/03leg/12-ALTO.mp4?RODRIGOU-IPTV
-#EXTINF:-1 tvg-logo="https://goo.gl/FrkBXV" group-title="IZOMBIE", IZBE T3|EP13 (LEG)
-http://zeus.netcine.tv/httpdelivery/izombie/03leg/13-ALTO.mp4?RODRIGOU-IPTV
-
-#EXTINF:-1 tvg-logo="https://goo.gl/szqyO0" group-title="LENDAS DO AMANHÃ", LDA T1|EP1
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/LGNDSODTMRWT01EP01.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/szqyO0" group-title="LENDAS DO AMANHÃ", LDA T1|EP2
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/LGNDSODTMRWT01EP02.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/szqyO0" group-title="LENDAS DO AMANHÃ", LDA T1|EP3
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/LGNDSODTMRWT01EP03.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/szqyO0" group-title="LENDAS DO AMANHÃ", LDA T1|EP4
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/LGNDSODTMRWT01EP04.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/szqyO0" group-title="LENDAS DO AMANHÃ", LDA T1|EP5
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/LGNDSODTMRWT01EP05.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/szqyO0" group-title="LENDAS DO AMANHÃ", LDA T1|EP6
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/LGNDSODTMRWT01EP06.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/szqyO0" group-title="LENDAS DO AMANHÃ", LDA T1|EP7
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/LGNDSODTMRWT01EP07.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/szqyO0" group-title="LENDAS DO AMANHÃ", LDA T1|EP8
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/LGNDSODTMRWT01EP08.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/szqyO0" group-title="LENDAS DO AMANHÃ", LDA T1|EP9
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/LGNDSODTMRWT01EP09.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/szqyO0" group-title="LENDAS DO AMANHÃ", LDA T1|EP10
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/LGNDSODTMRWT01EP10.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/szqyO0" group-title="LENDAS DO AMANHÃ", LDA T1|EP11
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/LGNDSODTMRWT01EP11.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/szqyO0" group-title="LENDAS DO AMANHÃ", LDA T1|EP12
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/LGNDSODTMRWT01EP12.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/szqyO0" group-title="LENDAS DO AMANHÃ", LDA T1|EP13
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/LGNDSODTMRWT01EP13.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/szqyO0" group-title="LENDAS DO AMANHÃ", LDA T1|EP14
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/LGNDSODTMRWT01EP14.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/szqyO0" group-title="LENDAS DO AMANHÃ", LDA T1|EP15
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/LGNDSODTMRWT01EP15.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/szqyO0" group-title="LENDAS DO AMANHÃ", LDA T1|EP16
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/LGNDSODTMRWT01EP16.mp4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/szqyO0" group-title="LENDAS DO AMANHÃ", LDA T2|EP1
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/LGNDSODTMRWT02EP01.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/szqyO0" group-title="LENDAS DO AMANHÃ", LDA T2|EP2
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/LGNDSODTMRWT02EP02.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/szqyO0" group-title="LENDAS DO AMANHÃ", LDA T2|EP3
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/LGNDSODTMRWT02EP03.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/szqyO0" group-title="LENDAS DO AMANHÃ", LDA T2|EP4
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/LGNDSODTMRWT02EP04.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/szqyO0" group-title="LENDAS DO AMANHÃ", LDA T2|EP5
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/LGNDSODTMRWT02EP05.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/szqyO0" group-title="LENDAS DO AMANHÃ", LDA T2|EP6
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/LGNDSODTMRWT02EP06.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/szqyO0" group-title="LENDAS DO AMANHÃ", LDA T2|EP7
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/LGNDSODTMRWT02EP07.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/szqyO0" group-title="LENDAS DO AMANHÃ", LDA T2|EP8
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/LGNDSODTMRWT02EP08.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/szqyO0" group-title="LENDAS DO AMANHÃ", LDA T2|EP9
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/LGNDSODTMRWT02EP09.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/szqyO0" group-title="LENDAS DO AMANHÃ", LDA T2|EP10
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/LGNDSODTMRWT02EP10.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/szqyO0" group-title="LENDAS DO AMANHÃ", LDA T2|EP11
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/LGNDSODTMRWT02EP11.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/szqyO0" group-title="LENDAS DO AMANHÃ", LDA T2|EP12
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/LGNDSODTMRWS02EP12.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/szqyO0" group-title="LENDAS DO AMANHÃ", LDA T2|EP13
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/LGNDSODTMRWT02EP13.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/szqyO0" group-title="LENDAS DO AMANHÃ", LDA T2|EP14
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/LGNDSODTMRWT02EP14.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/szqyO0" group-title="LENDAS DO AMANHÃ", LDA T2|EP15
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/LGNDSODTMRWT02EP15.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/szqyO0" group-title="LENDAS DO AMANHÃ", LDA T2|EP16
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/LGNDSODTMRWT02EP16.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/szqyO0" group-title="LENDAS DO AMANHÃ", LDA T2|EP17
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/LGNDSODTMRWT02EP17.mp4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/SXk4Ed" group-title="LENDAS DO AMANHÃ", LDA T3|EP1
-http://zeus.netcine.tv/httpdelivery/lot/03dub/01-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/kk6RFH" group-title="LENDAS DO AMANHÃ", LDA T3|EP2
-http://zeus.netcine.tv/httpdelivery/lot/03dub/02-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/zwgGrn" group-title="LENDAS DO AMANHÃ", LDA T3|EP3
-http://zeus.netcine.tv/httpdelivery/lot/03dub/03-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/dsQcbe" group-title="LENDAS DO AMANHÃ", LDA T3|EP4
-http://zeus.netcine.tv/httpdelivery/lot/03dub/04-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/bMt2W4" group-title="LENDAS DO AMANHÃ", LDA T3|EP5
-http://zeus.netcine.tv/httpdelivery/lot/03dub/05-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/Sgyx1L" group-title="LENDAS DO AMANHÃ", LDA T3|EP6
-hhttp://zeus.netcine.tv/httpdelivery/lot/03dub/06-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/Sgyx1L" group-title="LENDAS DO AMANHÃ", LDA T3|EP7
-http://zeus.netcine.tv/httpdelivery/lot/03dub/07-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/Sgyx1L" group-title="LENDAS DO AMANHÃ", LDA T3|EP8 CROSSOVER PARTE 4
-http://zeus.netcine.tv/httpdelivery/lot/03dub/08-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/Sgyx1L" group-title="LENDAS DO AMANHÃ", LDA T3|EP9
-http://origin.ntcdn.us/content/httpdelivery/lot/03dub/09-ALTO.mp4
-
-
-#EXTINF:-1 tvg-logo="https://goo.gl/SXk4Ed" group-title="LENDAS DO AMANHÃ", LDA T3|EP1 (LEG)
-http://zeus.netcine.tv/httpdelivery/lot/03leg/001-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/BnCQQf" group-title="LENDAS DO AMANHÃ", LDA T3|EP2 (LEG)
-http://zeus.netcine.tv/httpdelivery/lot/03leg/02-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/zwgGrn" group-title="LENDAS DO AMANHÃ", LDA T3|EP3 (LEG)
-http://zeus.netcine.tv/httpdelivery/lot/03leg/03-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/At9tdC" group-title="LENDAS DO AMANHÃ", LDA T3|EP4 (LEG)
-http://zeus.netcine.tv/httpdelivery/lot/03leg/04-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/PXXCPe" group-title="LENDAS DO AMANHÃ", LDA T3|EP5 (LEG)
-http://zeus.netcine.tv/httpdelivery/lot/03leg/005-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/Sgyx1L" group-title="LENDAS DO AMANHÃ", LDA T3|EP6 (LEG)
-http://zeus.netcine.tv/httpdelivery/lot/03leg/06-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/Sgyx1L" group-title="LENDAS DO AMANHÃ", LDA T3|EP7 (LEG)
-http://zeus.netcine.tv/httpdelivery/lot/03leg/07-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/Sgyx1L" group-title="LENDAS DO AMANHÃ", LDA T3|EP8 (LEG)
-http://zeus.netcine.tv/httpdelivery/lot/03leg/LOT08-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/Sgyx1L" group-title="LENDAS DO AMANHÃ", LDA T3|EP9 (LEG)
-http://zeus.netcine.tv/httpdelivery/lot/03leg/09-ALTO.mp4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/79gRwZ" group-title="LISTA NEGRA", LISTA NEGRA T1|EP1
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/THEBLCKLSTT01EP01.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/79gRwZ" group-title="LISTA NEGRA", LISTA NEGRA T1|EP2
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/THEBLCKLSTT01EP02.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/79gRwZ" group-title="LISTA NEGRA", LISTA NEGRA T1|EP3
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/THEBLCKLSTT01EP03.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/79gRwZ" group-title="LISTA NEGRA", LISTA NEGRA T1|EP4
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/THEBLCKLSTT01EP04.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/79gRwZ" group-title="LISTA NEGRA", LISTA NEGRA T1|EP5
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/THEBLCKLSTT01EP05.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/79gRwZ" group-title="LISTA NEGRA", LISTA NEGRA T1|EP6
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/THEBLCKLSTT01EP06.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/79gRwZ" group-title="LISTA NEGRA", LISTA NEGRA T1|EP7
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/THEBLCKLSTT01EP07.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/79gRwZ" group-title="LISTA NEGRA", LISTA NEGRA T1|EP8
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/THEBLCKLSTT01EP08.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/79gRwZ" group-title="LISTA NEGRA", LISTA NEGRA T1|EP9
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/THEBLCKLSTT01EP09.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/79gRwZ" group-title="LISTA NEGRA", LISTA NEGRA T1|EP10
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/THEBLCKLSTT01EP10.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/79gRwZ" group-title="LISTA NEGRA", LISTA NEGRA T1|EP11
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/THEBLCKLSTT01EP11.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/79gRwZ" group-title="LISTA NEGRA", LISTA NEGRA T1|EP12
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/THEBLCKLSTT01EP12.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/79gRwZ" group-title="LISTA NEGRA", LISTA NEGRA T1|EP13
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/THEBLCKLSTT01EP13.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/79gRwZ" group-title="LISTA NEGRA", LISTA NEGRA T1|EP14
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/THEBLCKLSTT01EP14.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/79gRwZ" group-title="LISTA NEGRA", LISTA NEGRA T1|EP15
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/THEBLCKLSTT01EP15.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/79gRwZ" group-title="LISTA NEGRA", LISTA NEGRA T1|EP16
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/THEBLCKLSTT01EP16.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/79gRwZ" group-title="LISTA NEGRA", LISTA NEGRA T1|EP17
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/THEBLCKLSTT01EP17.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/79gRwZ" group-title="LISTA NEGRA", LISTA NEGRA T1|EP18
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/THEBLCKLSTT01EP18.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/79gRwZ" group-title="LISTA NEGRA", LISTA NEGRA T1|EP19
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/THEBLCKLSTT01EP19.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/79gRwZ" group-title="LISTA NEGRA", LISTA NEGRA T1|EP20
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/THEBLCKLSTT01EP20.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/79gRwZ" group-title="LISTA NEGRA", LISTA NEGRA T1|EP21
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/THEBLCKLSTT01EP21.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/79gRwZ" group-title="LISTA NEGRA", LISTA NEGRA T1|EP22
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/THEBLCKLSTT01EP22.mp4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/79gRwZ" group-title="LISTA NEGRA", LISTA NEGRA T2|EP1
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/THEBLCKLSTT02EP01.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/79gRwZ" group-title="LISTA NEGRA", LISTA NEGRA T2|EP2
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/THEBLCKLSTT02EP02.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/79gRwZ" group-title="LISTA NEGRA", LISTA NEGRA T2|EP3
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/THEBLCKLSTT02EP03.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/79gRwZ" group-title="LISTA NEGRA", LISTA NEGRA T2|EP4
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/THEBLCKLSTT02EP04.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/79gRwZ" group-title="LISTA NEGRA", LISTA NEGRA T2|EP5
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/THEBLCKLSTT02EP05.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/79gRwZ" group-title="LISTA NEGRA", LISTA NEGRA T2|EP6
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/THEBLCKLSTT02EP06.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/79gRwZ" group-title="LISTA NEGRA", LISTA NEGRA T2|EP7
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/THEBLCKLSTT02EP07.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/79gRwZ" group-title="LISTA NEGRA", LISTA NEGRA T2|EP8
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/THEBLCKLSTT02EP08.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/79gRwZ" group-title="LISTA NEGRA", LISTA NEGRA T2|EP9
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/THEBLCKLSTT02EP09.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/79gRwZ" group-title="LISTA NEGRA", LISTA NEGRA T2|EP10
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/THEBLCKLSTT02EP10.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/79gRwZ" group-title="LISTA NEGRA", LISTA NEGRA T2|EP11
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/THEBLCKLSTT02EP11.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/79gRwZ" group-title="LISTA NEGRA", LISTA NEGRA T2|EP12
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/THEBLCKLSTT02EP12.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/79gRwZ" group-title="LISTA NEGRA", LISTA NEGRA T2|EP13
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/THEBLCKLSTT02EP13.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/79gRwZ" group-title="LISTA NEGRA", LISTA NEGRA T2|EP14
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/THEBLCKLSTT02EP14.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/79gRwZ" group-title="LISTA NEGRA", LISTA NEGRA T2|EP15
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/THEBLCKLSTT02EP15.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/79gRwZ" group-title="LISTA NEGRA", LISTA NEGRA T2|EP16
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/THEBLCKLSTT02EP16.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/79gRwZ" group-title="LISTA NEGRA", LISTA NEGRA T2|EP17
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/THEBLCKLSTT02EP17.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/79gRwZ" group-title="LISTA NEGRA", LISTA NEGRA T2|EP18
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/THEBLCKLSTT02EP18.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/79gRwZ" group-title="LISTA NEGRA", LISTA NEGRA T2|EP19
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/THEBLCKLSTT02EP19.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/79gRwZ" group-title="LISTA NEGRA", LISTA NEGRA T2|EP20
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/THEBLCKLSTT02EP20.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/79gRwZ" group-title="LISTA NEGRA", LISTA NEGRA T2|EP21
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/THEBLCKLSTT02EP21.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/79gRwZ" group-title="LISTA NEGRA", LISTA NEGRA T2|EP22
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/THEBLCKLSTT02EP22.mp4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/79gRwZ" group-title="LISTA NEGRA", LISTA NEGRA T3|EP1
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/THEBLCKLSTT03EP01.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/79gRwZ" group-title="LISTA NEGRA", LISTA NEGRA T3|EP2
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/THEBLCKLSTT03EP02.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/79gRwZ" group-title="LISTA NEGRA", LISTA NEGRA T3|EP3
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/THEBLCKLSTT03EP03.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/79gRwZ" group-title="LISTA NEGRA", LISTA NEGRA T3|EP4
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/THEBLCKLSTT03EP04.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/79gRwZ" group-title="LISTA NEGRA", LISTA NEGRA T3|EP5
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/THEBLCKLSTT03EP05.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/79gRwZ" group-title="LISTA NEGRA", LISTA NEGRA T3|EP6
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/THEBLCKLSTT03EP06.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/79gRwZ" group-title="LISTA NEGRA", LISTA NEGRA T3|EP7
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/THEBLCKLSTT03EP07.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/79gRwZ" group-title="LISTA NEGRA", LISTA NEGRA T3|EP8
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/THEBLCKLSTT03EP08.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/79gRwZ" group-title="LISTA NEGRA", LISTA NEGRA T3|EP9
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/THEBLCKLSTT03EP09.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/79gRwZ" group-title="LISTA NEGRA", LISTA NEGRA T3|EP10
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/THEBLCKLSTT03EP10.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/79gRwZ" group-title="LISTA NEGRA", LISTA NEGRA T3|EP11
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/THEBLCKLSTT03EP11.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/79gRwZ" group-title="LISTA NEGRA", LISTA NEGRA T3|EP12
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/THEBLCKLSTT03EP12.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/79gRwZ" group-title="LISTA NEGRA", LISTA NEGRA T3|EP13
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/THEBLCKLSTT03EP13.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/79gRwZ" group-title="LISTA NEGRA", LISTA NEGRA T3|EP14
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/THEBLCKLSTT03EP14.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/79gRwZ" group-title="LISTA NEGRA", LISTA NEGRA T3|EP15
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/THEBLCKLSTT03EP15.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/79gRwZ" group-title="LISTA NEGRA", LISTA NEGRA T3|EP16
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/THEBLCKLSTT03EP16.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/79gRwZ" group-title="LISTA NEGRA", LISTA NEGRA T3|EP17
-http://cdnv4.ec.cx/RedeCanais/RedeCanaisRC/RCServer11/ondemand/THEBLCKLSTT03EP17.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/79gRwZ" group-title="LISTA NEGRA", LISTA NEGRA T3|EP18
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/THEBLCKLSTT03EP18.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/79gRwZ" group-title="LISTA NEGRA", LISTA NEGRA T3|EP19
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/THEBLCKLSTT03EP19.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/79gRwZ" group-title="LISTA NEGRA", LISTA NEGRA T3|EP20
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/THEBLCKLSTT03EP20.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/79gRwZ" group-title="LISTA NEGRA", LISTA NEGRA T3|EP21
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/THEBLCKLSTT03EP21.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/79gRwZ" group-title="LISTA NEGRA", LISTA NEGRA T3|EP22
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/THEBLCKLSTT03EP22.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/79gRwZ" group-title="LISTA NEGRA", LISTA NEGRA T3|EP23
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/THEBLCKLSTT03EP23.mp4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/79gRwZ" group-title="LISTA NEGRA", LISTA NEGRA T4|EP1
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/THEBLCKLSTT04EP01.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/79gRwZ" group-title="LISTA NEGRA", LISTA NEGRA T4|EP2
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/THEBLCKLSTT04EP02.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/79gRwZ" group-title="LISTA NEGRA", LISTA NEGRA T4|EP3
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/THEBLCKLSTT04EP03.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/79gRwZ" group-title="LISTA NEGRA", LISTA NEGRA T4|EP4
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/THEBLCKLSTT04EP04.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/79gRwZ" group-title="LISTA NEGRA", LISTA NEGRA T4|EP5
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/THEBLCKLSTT04EP05.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/79gRwZ" group-title="LISTA NEGRA", LISTA NEGRA T4|EP6
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/THEBLCKLSTT04EP06.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/79gRwZ" group-title="LISTA NEGRA", LISTA NEGRA T4|EP7
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/THEBLCKLSTT04EP07.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/79gRwZ" group-title="LISTA NEGRA", LISTA NEGRA T4|EP8
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/THEBLCKLSTT04EP08.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/79gRwZ" group-title="LISTA NEGRA", LISTA NEGRA T4|EP9
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/THEBLCKLSTT04EP09.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/79gRwZ" group-title="LISTA NEGRA", LISTA NEGRA T4|EP10
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/THEBLCKLSTT04EP10.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/79gRwZ" group-title="LISTA NEGRA", LISTA NEGRA T4|EP11
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/THEBLCKLSTT04EP11.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/79gRwZ" group-title="LISTA NEGRA", LISTA NEGRA T4|EP12
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/THEBLCKLSTT04EP12.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/79gRwZ" group-title="LISTA NEGRA", LISTA NEGRA T4|EP13
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/THEBLCKLSTT04EP13.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/79gRwZ" group-title="LISTA NEGRA", LISTA NEGRA T4|EP14
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/THEBLCKLSTT04EP14.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/FjCgty" group-title="LISTA NEGRA", LISTA NEGRA T4|EP15
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/THEBLCKLSTT04EP15.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/FjCgty" group-title="LISTA NEGRA", LISTA NEGRA T4|EP16
-http://cdnv3.ec.cx/RedeCanais/RCServer12/ondemand/THEBLCKLSTT04EP16.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/FjCgty" group-title="LISTA NEGRA", LISTA NEGRA T4|EP17
-http://cdnv3.ec.cx/RedeCanais/RCServer12/ondemand/THEBLCKLSTT04EP17.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/FjCgty" group-title="LISTA NEGRA", LISTA NEGRA T4|EP18
-http://cdnv3.ec.cx/RedeCanais/RCServer12/ondemand/THEBLCKLSTT04EP18.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/FjCgty" group-title="LISTA NEGRA", LISTA NEGRA T4|EP19
-http://cdnv3.ec.cx/RedeCanais/RCServer12/ondemand/THEBLCKLSTT04EP19.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/FjCgty" group-title="LISTA NEGRA", LISTA NEGRA T4|EP20
-http://cdnv3.ec.cx/RedeCanais/RCServer12/ondemand/THEBLCKLSTT04EP20.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/FjCgty" group-title="LISTA NEGRA", LISTA NEGRA T4|EP21
-http://cdnv3.ec.cx/RedeCanais/RCServer12/ondemand/THEBLCKLSTT04EP21.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/FjCgty" group-title="LISTA NEGRA", LISTA NEGRA T4|EP22
-http://cdnv3.ec.cx/RedeCanais/RCServer12/ondemand/THEBLCKLSTT04EP22.mp4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/5yn699" group-title="LISTA NEGRA", LISTA NEGRA T5|EP1
-http://cdnv7.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/THEBLCKLSTT05EP01.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/5yn699" group-title="LISTA NEGRA", LISTA NEGRA T5|EP2
-http://cdnv7.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/THEBLCKLSTT05EP02.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/5yn699" group-title="LISTA NEGRA", LISTA NEGRA T5|EP3
-http://cdnv7.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/THEBLCKLSTT05EP03.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/5yn699" group-title="LISTA NEGRA", LISTA NEGRA T5|EP4
-http://cdnv7.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/THEBLCKLSTT05EP04.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/5yn699" group-title="LISTA NEGRA", LISTA NEGRA T5|EP5
-http://cdnv7.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/THEBLCKLSTT05EP05.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/5yn699" group-title="LISTA NEGRA", LISTA NEGRA T5|EP6
-http://cdnv7.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/THEBLCKLSTT05EP06.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/5yn699" group-title="LISTA NEGRA", LISTA NEGRA T5|EP7
-http://cdnv7.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/THEBLCKLSTT05EP07.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/5yn699" group-title="LISTA NEGRA", LISTA NEGRA T5|EP8
-http://cdnv7.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/THEBLCKLSTT05EP08.mp4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/5yn699" group-title="LISTA NEGRA", LISTA NEGRA T5|EP1 (LEG)
-http://cdnv7.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/THEBLCKLSTS05EP01.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/5yn699" group-title="LISTA NEGRA", LISTA NEGRA T5|EP2 (LEG)
-http://cdnv7.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/THEBLCKLSTS05EP02.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/5yn699" group-title="LISTA NEGRA", LISTA NEGRA T5|EP3 (LEG)
-http://cdnv7.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/THEBLCKLSTS05EP03.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/5yn699" group-title="LISTA NEGRA", LISTA NEGRA T5|EP4 (LEG)
-http://cdnv7.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/THEBLCKLSTS05EP04.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/5yn699" group-title="LISTA NEGRA", LISTA NEGRA T5|EP5 (LEG)
-http://cdnv7.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/THEBLCKLSTS05EP05.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/5yn699" group-title="LISTA NEGRA", LISTA NEGRA T5|EP6 (LEG)
-http://cdnv7.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/THEBLCKLSTS05EP06.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/5yn699" group-title="LISTA NEGRA", LISTA NEGRA T5|EP7 (LEG)
-http://cdnv7.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/THEBLCKLSTS05EP07.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/5yn699" group-title="LISTA NEGRA", LISTA NEGRA T5|EP8 (LEG)
-http://cdnv7.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/THEBLCKLSTS05EP08.mp4
 
 #EXTINF:-1 tvg-logo="https://goo.gl/Zkbs9C" group-title="AMERICAN HORROR STORY", AHS T1|EP1
 http://cdnv14.ec.cx/RedeCanais/RCServer05/ondemand/AMRCHORT01EP01.mp4?LISTAIPTVVIP
@@ -10427,3 +9482,71 @@ http://www.blogger.com/video-play.mp4?contentId=ac2779d0ccdd8989
 http://www.blogger.com/video-play.mp4?contentId=b461a29793b9a8cf
 #EXTINF:-1 tvg-logo="http://i.imgur.com/VPFvpzA.jpg" group-title="Johnny Test",228 Johnny Test
 http://www.blogger.com/video-play.mp4?contentId=7e4c9290fcc0809c
+
+#EXTINF:-1 tvg- logo"" group-title="BRASIL" MASTERTV
+http://wowza.catve.com.br:1935/live2/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/m7orza8x9/TV_Cultura.png" group-title="TV ABERTO",TV CULTURA  
+http://wzbrasil1.comets.com.br/tvbaiana/aovivo/playlist.m3u8
+#EXTINF:-1 tvg- logo"" group-title="NOVOS",ANIMAL PLANET
+http://painel.tvdigitalsbl.net:8081/live/netiptv332/332/711.m3u8
+#EXTINF:-1 tvg- logo"" group-title="NOVOS",TELECINE PREMIUN
+http://painel.tvdigitalsbl.net:8081/live/netiptv332/332/1049.m3u8
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/lgw1ti6jx/TV_Brasil.png" group-title="TV ABERTO",TV BRASIL 
+http://stream2.ba.gov.br:80/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
+#EXTINF:0,#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/SBT-HD.png" group-title="TV ABERTO", SBT
+http://gbbrlive2.sambatech.com.br/liveevent/sbtabr_8fcdc5f0f8df8d4de56b22a2c6660470/livestream1/chunklist.m3u8
+#EXTINF:0,#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/07/FoxSports1.png" tvg-id="1724" group-title="ESPORTES",FOX SPORTS
+http://95.141.32.136:8081/look/foxsports/playlist.m3u8
+#EXTINF:0,#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1d/LOGO_REDETV!.png" tvg-id="233" group-title="TV ABERTO",REDE TV
+http://video01.viaflux.com:1935/live/mp4:tvsudoeste_source/playlist.m3u8
+#EXTINF:0,#EXTINF:-1 tvg-ID="TELECINE PREMIUM HD" tvg-name="TELECINE PREMIUM HD" tvg-logo="http://s17.postimg.org/lig6fpj4r/telecinepremium.png" group-title="FILMES",TELECINE PREMIUM HD
+http://painel.tvdigitalsbl.net:8081/live/netiptv332/332/487.m3u8
+#EXTINF:-1 tvg- logo"" group-title="TV ABERTA",GLOBO PRINCIPAL
+http://198.199.83.184:8081/aplicacao/recordeuropa/playlist.m3u8
+#EXTINF:-1 tvg- logo"" group-title="TV ABERTA",GLOBO INTERNACIONAL 
+http://198.199.83.184:8081/globointer/playlist.m3u8
+#EXTINF:-1 tvg- logo"" group-title="TV ABERTA",GLOBO NEWS
+http://hls.fearfulale.xyz:80/s/ch0010695/22a3687fa0f4048a2d8a671d5122b15c.m3u8
+#EXTINF:-1 tvg- logo"" group-title="TV ABERTA",GLOBO NORDESTE
+http://tv.ec.cx:1935/redecanais-stream-bobo/myStream/live.m3u8
+#EXTINF:-1 tvg- logo"" group-title="TV ABERTA",GLOBO RJ
+http://painel.tvdigitalsbl.net:8081/live/netiptv332/332/467.m3u8
+#EXTINF:-1 tvg- logo"" group-title="TV ABERTA",GLOBO SP
+http://painel.tvdigitalsbl.net:8081/live/netiptv332/332/1065.m3u8
+#EXTINF:0,#EXTINF:-1 tvg-ID="GLOBO SP 2" tvg-name="GLOBO SP HD" tvg-logo="http://www.playhdtv.pw/img/Globosp.png" group-title="TV ABERTA",GLOBO SP HD
+http://painel.tvdigitalsbl.net:8081/live/netiptv332/332/513.m3u8
+#EXTINF:0,#EXTINF:-1 tvg-ID="GLOBO SP 3 OP HD" tvg-name="GLOBO SP  SD" tvg-logo="http://www.playhdtv.pw/img/Globosp.png" group-title="TV ABERTA",GLOBO SP  SD
+http://painel.tvdigitalsbl.net:8081/live/netiptv332/332/1065.m3u8
+#EXTINF:0,#EXTINF:-1 tvg-ID="GLOBO RJ HD" tvg-name="GLOBO RJ HD" tvg-logo="http://www.playhdtv.pw/img/Globosp.png" group-title="TV ABERTA",GLOBO RJ HD
+http://painel.tvdigitalsbl.net:8081/live/netiptv332/332/467.m3u8
+#EXTINF:0,#EXTINF:-1 tvg-ID="GLOBO RJ HD (OPÇAO 2)" tvg-name="GLOBO RJ HD 🌐" tvg-logo="http://www.playhdtv.pw/img/Globosp.png" group-title="TV ABERTA",GLOBO RJ HD (OPÇAO 2)
+http://painel.tvdigitalsbl.net:8081/live/netiptv332/332/1506.m3u8
+#EXTINF:0,#EXTINF:-1 tvg-ID="" tvg-name="BAND" tvg-logo="http://s15.postimg.org/nvhe10jzb/band3.png Band" group-title="TV ABERTA",BAND
+http://painel.tvdigitalsbl.net:8081/live/netiptv332/332/857.m3u8
+#EXTINF:0,#EXTINF:-1 tvg-ID="SPORTV HD" tvg-name="SPORTV HD" tvg-logo="https://s19.postimg.org/72a42n79v/sportv.png SporTV" group-title="ESPORTES",SPORTV HD
+http://painel.tvdigitalsbl.net:8081/live/netiptv332/332/1404.m3u8
+#EXTINF:0,#EXTINF:-1 tvg-ID="" tvg-name="SPORTV 2 SD" tvg-logo="http://s20.postimg.org/ccq9oobd5/Spor_TV2.png SporTV 2" group-title="ESPORTES",SPORTV 2 SD
+http://painel.tvdigitalsbl.net:8081/live/netiptv332/332/213.m3u8
+#EXTINF:0,#EXTINF:-1 tvg-ID="" tvg-name="Kradio" tvg-logo="" group-title="KaykyTVOnlline",Live
+http://78.129.184.15:38879/streaming/stream/playlist.m3u8
+#EXTINF:0,#EXTINF:-1 tvg-ID="" tvg-name="SPORTV 3 SD" tvg-logo="http://s20.postimg.org/6d2il0qkp/Spor_TV3.png SporTV 3" group-title="ESPORTES",SPORTV 3 SD
+http://painel.tvdigitalsbl.net:8081/live/netiptv332/332/214.m3u8
+#EXTINF:0,#EXTINF:-1 tvg-ID="MULTISHOW HD" tvg-name="MULTISHOW_HD" tvg-logo="http://s32.postimg.org/7wouj3pht/multishow.png" group-title="BRASIL",MULTISHOW HD
+http://painel.tvdigitalsbl.net:8081/live/netiptv332/332/476.m3u8
+#EXTINF:0,#EXTINF:-1 tvg-ID="MULTISHOW HD" tvg-name="MULTISHOW HD2" tvg-logo="http://s32.postimg.org/7wouj3pht/multishow.png" group-title="BRASIL",MULTISHOW HD O2
+http://painel.tvdigitalsbl.net:8081/live/netiptv332/332/1558.m3u8
+#EXTINF:0,#EXTINF:-1 tvg-ID="MULTISHOW SD" tvg-name="MULTISHOW_SD" tvg-logo="http://s32.postimg.org/7wouj3pht/multishow.png" group-title="BRASIL",MULTISHOW_SD
+http://painel.tvdigitalsbl.net:8081/live/netiptv332/332/174.m3u8
+#EXTINF:0,#EXTINF:-1 tvg-ID="GNT HD" tvg-name="GNT HD" tvg-logo="http://s32.postimg.org/mfp4sxpch/GNT.png" group-title="BRASIL",GNT HD
+http://painel.tvdigitalsbl.net:8081/live/netiptv332/332/157.m3u8
+#EXTINF:0,#EXTINF:-1 tvg-ID="HBO HD" tvg-name="HBO HD" tvg-logo="http://s18.postimg.org/ytb0mpqf9/hbo.png" group-title="FILMES",HBO HD
+http://painel.tvdigitalsbl.net:8081/live/netiptv332/332/1518.m3u8
+#EXTINF:0,#EXTINF:-1 tvg-ID="HBO PLUS HD" tvg-name="HBO PLUS HD" tvg-logo="http://s33.postimg.org/r72rs54xr/HBO_Plus.png" group-title="FILMES",HBO PLUS HD
+http://painel.tvdigitalsbl.net:8081/live/netiptv332/332/1517.m3u8
+#EXTINF:0,#EXTINF:-1 tvg-ID="HBO FAMILY HD" tvg-name="HBO FAMILY HD" tvg-logo="https://s31.postimg.org/lw2etrpff/HBO_Family.png" group-title="FILMES",HBO FAMILY HD
+http://painel.tvdigitalsbl.net:8081/live/netiptv332/332/1509.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES" ,PREMIERE CLUB
+http://m3u.me/br/fsRm                                                                                                                                                                                                                                                                                            
+#EXTINF:-1 tvg-logo="" group-title="TV FILMES" ,TELECINE ACTION
+http://m3u.me/br/t98l                                                                                                                                                                                                                                                     
+
