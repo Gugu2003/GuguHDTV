@@ -1,3 +1,4 @@
 #EXTM3U
 
-#EXTINF:http://v2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/HOUSET01EP01.mp4 
+#EXTINF:-1 tvg-id="TV Globo [Brazil]" tvg-logo="http://s17.postimg.org/w75u3yg1n/globo2.png" group-title="TV Aberta",Globo Internacional
+http://v2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/HOUSET01EP01.mp4 
