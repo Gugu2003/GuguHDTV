@@ -2,3 +2,15 @@
 
 #EXTINF:-1 tvg-id="TV Globo [Brazil]" tvg-logo="http://s17.postimg.org/w75u3yg1n/globo2.png" group-title="TV Aberta",Globo Internacional
 http://v2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/HOUSET01EP01.mp4 
+
+#EXTINF:-1 tvg-id="TV Globo [Brazil]" tvg-logo="http://s17.postimg.org/w75u3yg1n/globo2.png" group-title="TV Aberta",Globo Internacional
+http://www.redecanais.com/player3/server1http2.php?vid=HOUSET01EP01&gid=0B265dpk7MD54cUQyVGM5Zmh2bGM
+
+#EXTINF:-1 tvg-logo="http://vertv0800.com/assets/favicons/ms-icon-310x310.png", group-title="Categorias", FUTURAMA T7|EP22
+http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/FUTRMT07EP22.mp4
+
+#EXTINF:-1 tvg-logo="http://s17.postimg.org/w75u3yg1n/globo2.png", group-title="Categorias", GLOBO
+http://tv.ec.cx:1935/redecanais-stream-bobo/myStream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://vertv0800.com/assets/favicons/ms-icon-310x310.png", group-title="Categorias", Disney XD
+http://tv.ec.cx:1935/redecanais-stream-disneyxd/myStream/playlist.m3u8
